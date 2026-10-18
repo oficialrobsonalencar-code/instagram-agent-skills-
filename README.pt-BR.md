@@ -19,7 +19,7 @@ Todas as skills fazem uma entrevista curta antes de escrever, e nada é postado 
 ## Instalar
 
 ```bash
-git clone https://github.com/oficialrobsonalencar/instagram-agent-skills
+git clone https://github.com/oficialrobsonalencar-code/instagram-agent-skills-
 ```
 
 Copie as pastas das skills que quiser para o diretório de skills do seu agente:

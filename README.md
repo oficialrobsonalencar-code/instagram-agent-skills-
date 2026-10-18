@@ -45,3 +45,8 @@ The skills are written in Portuguese because that is the audience they serve —
 ## License
 
 [MIT](LICENSE) — use commercially, modify, redistribute. Attribution appreciated.
+
+## Author
+
+**Robson Alencar** — [@pastorrobsonalencar](https://www.instagram.com/pastorrobsonalencar/)
+

@@ -41,3 +41,8 @@ Requisitos por skill:
 ## Licença
 
 [MIT](LICENSE) — use comercialmente, modifique, redistribua. Atribuição apreciada.
+
+## Autor
+
+**Robson Alencar** — [@pastorrobsonalencar](https://www.instagram.com/pastorrobsonalencar/)
+

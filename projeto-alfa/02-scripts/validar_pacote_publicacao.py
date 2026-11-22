@@ -58,13 +58,11 @@ def validate_package(job):
   problems.append("COMPROVANTE_DE_AUDITORIA_VISUAL_AUSENTE")
  else:
   try:
+   from verificar_aprovacao_visual import verify_visual_receipt
    a=json.loads(proof.read_text(encoding="utf-8-sig"))
-   actual={p.name:file_hash(p) for p in files}
-   if a.get("aprovado") is not True or a.get("revisor") not in {"auditor-deus", "codex-visual"}:
-    problems.append("AUDITOR_VISUAL_NAO_APROVOU")
-   if a.get("images_sha256")!=actual:problems.append("SLIDES_MUDARAM_APOS_AUDITORIA")
-   if a.get("caption_sha256")!=hashlib.sha256(caption.encode("utf-8")).hexdigest():
-    problems.append("LEGENDA_MUDOU_APOS_AUDITORIA")
-   if a.get("job_id")!=job.get("id"):problems.append("APROVACAO_DE_OUTRA_TAREFA")
-  except Exception:problems.append("COMPROVANTE_VISUAL_INVALIDO")
+   verify_visual_receipt(a,files,caption,job.get("id"),job.get("account"))
+  except PermissionError as exc:
+   problems.append(str(exc))
+  except (OSError,ValueError,UnicodeError,TypeError,KeyError):
+   problems.append("COMPROVANTE_VISUAL_INVALIDO")
  return problems

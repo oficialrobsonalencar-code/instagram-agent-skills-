@@ -256,3 +256,12 @@ Restauração segura:
 Consultar os documentos gerados na sincronização: `INVENTARIO-TECNICO.md` (cada arquivo, dimensão e hash SHA-256) e `MANIFESTO-TECNICO.json` (índice automatizável). Estes identificam o que foi copiado para o GitHub e permitem comparar versões sem usar mídia ou informações de login.
 
 **Limites do relatório:** sintaxe e testes unitários da correção de decisões foram verificados; publicação e agendamento externos não foram disparados. O estado atual de autenticação e de filas do ALFA depende de consulta local contemporânea.
+
+## AUDITORIA V2 - ASSINATURA INDEPENDENTE
+- 02-scripts/verificar_aprovacao_visual.py: confere assinatura Ed25519 e hashes do pacote.
+- 02-scripts/qa_carrossel.py: so preserva aprovacao visual assinada.
+- 02-scripts/validar_pacote_publicacao.py: bloqueia provas antigas e invalidas.
+- 02-scripts/auditoria_visual_operador.py: assinatura interativa apos inspecao real, com senha privada fora do projeto.
+- 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md: procedimento sem credenciais no GitHub.
+- Chaves e recibos reais permanecem apenas no ambiente local protegido.
+- Ate instalacao de chave publica legitima, comprovantes sem prova V2 falham fechado.

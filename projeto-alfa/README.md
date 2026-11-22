@@ -7,3 +7,6 @@ Consultar [Mapa ponta a ponta](MAPA-PONTA-A-PONTA.md), [Inventario completo](INV
 O repositorio nao executa nem autentica no Instagram. A operacao depende dos servicos locais do ALFA.
 
 **Configuracao de uma nova instalacao:** [Como instalar e fazer funcionar, sem credenciais](COMO-INSTALAR-E-FUNCIONAR.md).
+
+Nova protecao do publicador: veja 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md.
+Nenhuma chave privada, chave de operacao, comprovante real ou credencial e distribuida.

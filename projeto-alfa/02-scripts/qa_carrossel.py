@@ -74,16 +74,17 @@ def run(folder, expected=None, strict=False):
             with Image.open(slide_path) as source:
                 if source.size == (1080, 1350):
                     source.convert("RGB").crop((0, 135, 1080, 1215)).save(previews / slide_path.name)
-    # Revalidacoes tecnicas nao apagam auditoria assinada se PNGs e legenda nao mudaram.
+    # Auditoria visual somente pode ser preservada com assinatura Ed25519
+    # valida sobre o pacote exato. NUNCA inferir revisao de um JSON simples.
     kept = False
     if not errors:
         try:
+            from verificar_aprovacao_visual import verify_visual_receipt
             proof = json.loads((folder / "aprovacao-visual.json").read_text(encoding="utf-8-sig"))
             cap_path = folder.parent / "legenda.txt" if folder.name == "out" else folder / "legenda.txt"
-            image_hashes = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in paths}
-            cap_digest = hashlib.sha256(cap_path.read_text(encoding="utf-8-sig").strip().encode("utf-8")).hexdigest()
-            kept = proof.get("aprovado") is True and proof.get("revisor") in {"auditor-deus", "codex-visual"} and proof.get("images_sha256") == image_hashes and proof.get("caption_sha256") == cap_digest
-        except (OSError, UnicodeError, ValueError, TypeError, KeyError):
+            kept = verify_visual_receipt(proof, paths, cap_path.read_text(encoding="utf-8-sig"),
+                                         proof.get("job_id"), "pastorrobsonalencar")
+        except (OSError, UnicodeError, ValueError, TypeError, KeyError, PermissionError):
             kept = False
     report = {"aprovado_tecnicamente": not errors, "aprovado_visualmente": kept, "tipografia_confirmada": kept, "publicavel": kept, "escopo_da_auditoria": "tecnico; nao atesta tipografia nem fidelidade visual", "modo_cenas_exigidas": strict,
               "resolucao_post": [1080, 1350], "recorte_grade_simulado": [0, 135, 1080, 1215],

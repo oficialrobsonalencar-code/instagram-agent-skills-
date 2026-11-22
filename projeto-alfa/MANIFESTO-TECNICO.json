@@ -1,8 +1,8 @@
 {
   "data": "2026-11-22",
   "escopo": "codigo e documentacao tecnica",
-  "arquivos": 306,
-  "bytes": 3157107,
+  "arquivos": 309,
+  "bytes": 3160074,
   "bloqueados_por_seguranca": [],
   "erros_sintaxe": [],
   "js_verificados": 53,
@@ -219,8 +219,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 664,
-      "sha256": "d1e0f0d49fb9ceea71c8a1792cf0c921d1fc660bc4891b5578826f8be6744c35"
+      "bytes": 228,
+      "sha256": "1893852d2d750bb797fc1b9ac4307b8710f8b400eb525672efe2605aa1c89d7f"
     },
     {
       "path": ".opencode/.gitignore",
@@ -868,6 +868,11 @@
       "sha256": "6c17b8f9360faa4b2f9816edf939cc9c3a58c7eda4b4da6c3c4a9969e8f7c1fb"
     },
     {
+      "path": "00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md",
+      "bytes": 4652,
+      "sha256": "cc0d6fce320207d463795f862f791cefcebc979acbdc46223731d5ab07be8459"
+    },
+    {
       "path": "00-regras/CONTROLE-DE-FONTES-E-APROVACAO.md",
       "bytes": 2674,
       "sha256": "eb7f9e2cee5563b6bb3bc899a09ebb20ebea72c02942a05fa8b9d06e1a1995cd"
@@ -919,8 +924,8 @@
     },
     {
       "path": "00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md",
-      "bytes": 6375,
-      "sha256": "6ef50ac337c42f4125d707c90f6812dbd43fed5d89c00badb7e57919bf432eb2"
+      "bytes": 7073,
+      "sha256": "b6801b3df67130c39102b4ee08e0a65ce54ac972df29e686495271287bd61ef3"
     },
     {
       "path": "00-regras/PADRAO-OFICIAL-SETA-ASSINATURA-20261121.md",
@@ -966,6 +971,11 @@
       "path": "02-scripts/atualizar_grafo_instagram.py",
       "bytes": 2870,
       "sha256": "b7322825666c1750979cca97b4d53c168552304fe9b7e51a5be7e186acbf02ce"
+    },
+    {
+      "path": "02-scripts/auditoria_visual_operador.py",
+      "bytes": 7757,
+      "sha256": "ce2561bc19b3b1e3cb19cb0a452c231d76002b81c22289e6471a85dd98b7d752"
     },
     {
       "path": "02-scripts/autorizacao_por_pacote.py",
@@ -1049,8 +1059,8 @@
     },
     {
       "path": "02-scripts/qa_carrossel.py",
-      "bytes": 5687,
-      "sha256": "ed532497af717f5b421ec1b510726b4430fe5e2afd85b46b0eaf8e0f4a0b5e61"
+      "bytes": 5606,
+      "sha256": "23d889fb2f405dee3e00486f636cf7327f940e94417c6f93ee874346ab61e669"
     },
     {
       "path": "02-scripts/qa_texto_taxonomia.py",
@@ -1109,8 +1119,8 @@
     },
     {
       "path": "02-scripts/validar_pacote_publicacao.py",
-      "bytes": 3260,
-      "sha256": "5511513234f35d720d6840828bad5fbeb14748f7482f3cd2b0917336fc952401"
+      "bytes": 3008,
+      "sha256": "c6f8231377cf313e1db0b4fcadaf83cc1d41b389349f1b9560b541ad095ce077"
     },
     {
       "path": "02-scripts/validar_padrao_carrossel.py",
@@ -1131,6 +1141,11 @@
       "path": "02-scripts/verificar-post.cjs",
       "bytes": 1253,
       "sha256": "e1b1757ad26b0db9e77f69bced733c908ab2353eddebe1221a7150e5f6229569"
+    },
+    {
+      "path": "02-scripts/verificar_aprovacao_visual.py",
+      "bytes": 5553,
+      "sha256": "111911b5ffe8441ae1d11eab60a28dea1f5e4270786ddc213c6de1f4c309a51b"
     },
     {
       "path": "02-scripts/verificar_execucao_autorizada.py",
@@ -1514,13 +1529,13 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 12591,
-      "sha256": "4e54de3fcc0a1764b4aebc90259484ba880c21100d1c6c1676990b2c4602c748"
+      "bytes": 484,
+      "sha256": "810cbc36e70b1bf0726aa1931bc88453a23e9b598f7ac488e13f2968923f2461"
     },
     {
       "path": "README.md",
-      "bytes": 3618,
-      "sha256": "129daea3fb00a054524394b35ad95e7fb4d9f3c3e7ed42d06e0b742c01ca44fe"
+      "bytes": 801,
+      "sha256": "cac1321d92952b8c058055c32ca9b6e737aed477430d076dce73a98ddab45286"
     },
     {
       "path": "opencode.json",

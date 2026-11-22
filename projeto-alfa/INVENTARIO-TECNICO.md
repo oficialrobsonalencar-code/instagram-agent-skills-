@@ -2,7 +2,7 @@
 
 Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar versoes.
 
-**Arquivos:** 306 | **Bytes:** 3157107
+**Arquivos:** 309 | **Bytes:** 3160074
 
 | Arquivo | Bytes | SHA-256 |
 |---|---:|---|
@@ -48,7 +48,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | .agents/skills/skill-checkup/scripts/index.py | 9782 | 425aac5d8b109d656f572e98c17567a3b1546b23d5a928f3f4e39cf1457eb6a2 |
 | .agents/skills/video-editing-workflow/SKILL.md | 2576 | 057295aa4bbaa8e746793dbb5a327b957e9329db8b1935e003376f93ba380119 |
 | .agents/skills/whats-the-difference-short/SKILL.md | 1817 | e55d2c18f20ea546e545acf799ce64580d09cb0c91945411e5a3262e498855ec |
-| .gitignore | 664 | d1e0f0d49fb9ceea71c8a1792cf0c921d1fc660bc4891b5578826f8be6744c35 |
+| .gitignore | 228 | 1893852d2d750bb797fc1b9ac4307b8710f8b400eb525672efe2605aa1c89d7f |
 | .opencode/.gitignore | 63 | 663a068e76d264d0bc6740f5450b6c4193c7b41ecf5e0dc222485b8a17404d95 |
 | .opencode/agents/modo-deus.md | 5149 | 88a270f300bb65e8809e46f07801303398bf4b70601d52d896c5b31dab94a9a9 |
 | .opencode/package.json | 64 | be3e200fd28bc484069dcf5e8ee4ebc405f11049030c6130f1b2d437eb7a8683 |
@@ -178,6 +178,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | .opencode/skills/visual-reference-adapter/SKILL.md | 8013 | 212783d9e978034406e68f2651dd47f84bc6f7e265ac614be060489bfa89e1c1 |
 | .opencode/skills/visual-regression-testing/SKILL.md | 3364 | 731c9be391fbf97ae5d7ebfd488c1433c698f773c72a160743ff88e22a93414a |
 | .opencode/skills/vox-explainer/SKILL.md | 6044 | 6c17b8f9360faa4b2f9816edf939cc9c3a58c7eda4b4da6c3c4a9969e8f7c1fb |
+| 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md | 4652 | cc0d6fce320207d463795f862f791cefcebc979acbdc46223731d5ab07be8459 |
 | 00-regras/CONTROLE-DE-FONTES-E-APROVACAO.md | 2674 | eb7f9e2cee5563b6bb3bc899a09ebb20ebea72c02942a05fa8b9d06e1a1995cd |
 | 00-regras/FIDELIDADE-REFERENCIA-EXECUCAO.md | 1460 | 5c1b2c8632da3c933b3e5c46ef66ccf7021c12c2e074aa45be8f68d879151c99 |
 | 00-regras/FIDELIDADE-TESTES.json | 872 | 642f433884be5a92b2b5033f2f4dc25f6958afc8e10adc0a8e63cb98e4170ce6 |
@@ -188,7 +189,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 00-regras/HIGGSFIELD-INTEGRACAO-20261117.md | 1873 | 726c60025b30ada41f889177c2871934aae5b52c43e190c6c3fe23e301885d0b |
 | 00-regras/LAST30DAYS-USO-INSTAGRAM.md | 3313 | 19b0e7db7411dd81ceaf88d35f249a0aada3b4e442c0cc256619a666c528ce9d |
 | 00-regras/LEGENDA-OBRIGATORIA-CARROSSEL.md | 1006 | 74b3447abe5f5e86a019922f3e8c4c4bdbba0c7e5185a8048a61af8f2312b9ce |
-| 00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md | 6375 | 6ef50ac337c42f4125d707c90f6812dbd43fed5d89c00badb7e57919bf432eb2 |
+| 00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md | 7073 | b6801b3df67130c39102b4ee08e0a65ce54ac972df29e686495271287bd61ef3 |
 | 00-regras/PADRAO-OFICIAL-SETA-ASSINATURA-20261121.md | 4517 | 54e478a9bb5ed273ae9ec4e1f1f2c40c9a9429be4a082e2713204662e10b55a2 |
 | 00-regras/PADRAO-VISUAL-APROVADO-SESSAO-20261120.md | 3274 | 7e4a2eea75ecb2919b802615c09b7d7620de921508edc0743857d52bdfcd8a2d |
 | 00-regras/PERFIL-4X5-GRADE-1X1.md | 2582 | 745f7be8b192de129a89b15f91df232613e1470dec5085fb10b6546c6182a719 |
@@ -198,6 +199,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 02-scripts/agendar_post_aprovado.py | 7362 | 71d0080f0d716a1e9c29f3c4aaeba35c6153d2932fe75969f83a2308981d1b03 |
 | 02-scripts/atualizar_grafo_instagram.ps1 | 771 | ae2a8094de045a8a3f63bb5e9cac7a95a44607596528b12d67c0c8216699662f |
 | 02-scripts/atualizar_grafo_instagram.py | 2870 | b7322825666c1750979cca97b4d53c168552304fe9b7e51a5be7e186acbf02ce |
+| 02-scripts/auditoria_visual_operador.py | 7757 | ce2561bc19b3b1e3cb19cb0a452c231d76002b81c22289e6471a85dd98b7d752 |
 | 02-scripts/autorizacao_por_pacote.py | 5863 | bf8813120b3d3f5cd3cc046f08fab7a063fb7130c760ce8087505799c71bf0da |
 | 02-scripts/avaliar_decisao_carrossel.py | 1421 | 0908301a91e90a196fe06b9cd61815862070c218d3c3306c619cfd0073de3e43 |
 | 02-scripts/comparar_referencia.py | 1910 | adef56b8cf2c98d75c0ddbd58b614018cf3cd72c863270ffe275c3e9cea805d2 |
@@ -214,7 +216,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 02-scripts/postar-agora.py | 9369 | a01dca72bd65fd1c8ffe6a773e25050f91ecba18467236f91d66b9c76629410a |
 | 02-scripts/preparar-post.py | 2154 | fd15eed55af97c58e14797f4a9e156abde818ef40bf080f967c637947f64e259 |
 | 02-scripts/publicar-seguro.cjs | 7718 | 145dacef594967cb08b77e8ae71e8826e33bab5ce25002abe803a6bb26601582 |
-| 02-scripts/qa_carrossel.py | 5687 | ed532497af717f5b421ec1b510726b4430fe5e2afd85b46b0eaf8e0f4a0b5e61 |
+| 02-scripts/qa_carrossel.py | 5606 | 23d889fb2f405dee3e00486f636cf7327f940e94417c6f93ee874346ab61e669 |
 | 02-scripts/qa_texto_taxonomia.py | 7624 | 6040bbe0217a0031743a6843b7483015951ba368c6cb1c66c0862e3a2523e30d |
 | 02-scripts/receber-video-editor.py | 5820 | caffdaadc0d8c90f41702bbaec46f48e107f4f3ababaca1a11e714544e576ecd |
 | 02-scripts/render.cjs | 1195 | 289626b537f9de20ac55a31f23f7a8b49c9f809c1d35c4913e0dcbed5024986c |
@@ -226,11 +228,12 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 02-scripts/validar_layout_fixo.py | 2471 | 2dcb698922b810d6a3ea666d3769037fcdee7d03d8db7ec2c9ead4634c817413 |
 | 02-scripts/validar_layout_referencia.py | 4342 | 2f0d9e3f13270be3f1fed54b43f3962f0fc3889e6e081ad51c6103872fec788e |
 | 02-scripts/validar_legenda_editorial.py | 2352 | 8f80a6a6498cf878eb1901d45e3fa5be002564485fc4c996607e53a1be01e3e6 |
-| 02-scripts/validar_pacote_publicacao.py | 3260 | 5511513234f35d720d6840828bad5fbeb14748f7482f3cd2b0917336fc952401 |
+| 02-scripts/validar_pacote_publicacao.py | 3008 | c6f8231377cf313e1db0b4fcadaf83cc1d41b389349f1b9560b541ad095ce077 |
 | 02-scripts/validar_padrao_carrossel.py | 9121 | 5c6581d5c84016d6b89ad1f88ed2b5c3eca41ac761d05566db80c1b00837f712 |
 | 02-scripts/validar_tipografia_carrossel.py | 4325 | 4c4af04484ae0a3923481457f62d1c3b5ebbdac8342205ea710b7b8e88ae4c8e |
 | 02-scripts/verificar-perfil.cjs | 1074 | 37014da40387c8e6413157e83af694a0a716d879bd5b3d7c4d3321e157d69553 |
 | 02-scripts/verificar-post.cjs | 1253 | e1b1757ad26b0db9e77f69bced733c908ab2353eddebe1221a7150e5f6229569 |
+| 02-scripts/verificar_aprovacao_visual.py | 5553 | 111911b5ffe8441ae1d11eab60a28dea1f5e4270786ddc213c6de1f4c309a51b |
 | 02-scripts/verificar_execucao_autorizada.py | 1452 | f53160fb3c4831d17cc4be9e4efb6a377ac2f1cf8c6f46c799db5b487e677894 |
 | 02-scripts/verificar_resposta_interativa.py | 4403 | 6429fbce61b5c713212613d43b8ea068b8661b43e31baea66e300c98034293ca |
 | 04-skills/SKILL-CHECKUP-LOCATION.md | 908 | 886c520a794f3dfde2cf91ad6e040dc0929fd9166b7970c0809fb30a4943c2c9 |
@@ -307,8 +310,8 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 07-identidade-visual/padrao-oficial/mapeamento.json | 4105 | 1a109e81ca88326edb791ed4b4fe326a6c0bf198dcf50ba062df4dad67b72acb |
 | 07-identidade-visual/padrao-oficial/modelo-base-claro.html | 1771 | f985d2346cd325efc2859303c43108f0a5a87d905c9693bfce09aa97b82bc8dc |
 | 07-identidade-visual/padrao-oficial/modelo-para-novos-slides.html | 1758 | 69b5072d92be4f41accb52eba3a443214f105a9d8f89f8962ea2edcf29038f99 |
-| AGENTS.md | 12591 | 4e54de3fcc0a1764b4aebc90259484ba880c21100d1c6c1676990b2c4602c748 |
-| README.md | 3618 | 129daea3fb00a054524394b35ad95e7fb4d9f3c3e7ed42d06e0b742c01ca44fe |
+| AGENTS.md | 484 | 810cbc36e70b1bf0726aa1931bc88453a23e9b598f7ac488e13f2968923f2461 |
+| README.md | 801 | cac1321d92952b8c058055c32ca9b6e737aed477430d076dce73a98ddab45286 |
 | opencode.json | 3817 | 90247d20e3846f32a86ed6870b640ba7dc9e49e945c81bc436d45ebd034a92bb |
 | package.json | 508 | d7f88cd660c1c2c27ad7c6e4e8f03f817ed81341402228fee03625a0cc3988a0 |
 | voice.md | 2288 | f02d4442cd4c3eed45c9983d7a0cd2f082e0a462edd31c1b2034b96ecbe3d6b1 |

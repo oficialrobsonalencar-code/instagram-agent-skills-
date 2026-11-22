@@ -76,3 +76,12 @@ Registrar por operação: arquivo de origem, versão, hashes, QA, decisão real,
 - Teste de sintaxe bem-sucedido não prova publicação ou agendamento real. Não afirmar implantação completa sem teste de ponta a ponta.
 
 **Leia também:** `MAPA-PONTA-A-PONTA.md`, `INVENTARIO-TECNICO.md`, `MANIFESTO-TECNICO.json` e `VERIFICACAO-TECNICA.md`.
+## 10. Auditoria V2 assinada Ed25519
+A prova visual exige assinatura criptografica sobre conta, job, hashes e legenda.
+Chave publica confiavel e chave privada criptografada devem ser provisionadas
+fora do repositorio pelo responsavel humano. Nunca compartilhar credenciais.
+Consulte 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md para a configuracao interativa.
+Instale a biblioteca Python cryptography; nao assine comprovantes automaticamente.
+Dois comprovantes antigos do ALFA ficaram inaptos ate auditoria legitima.
+Validacao isolada: 22 testes da assinatura + 9 do operador aprovados.
+O teste nao prova publicacao real nem auditoria humana real.

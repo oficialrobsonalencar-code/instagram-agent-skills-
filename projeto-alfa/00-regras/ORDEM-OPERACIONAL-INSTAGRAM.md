@@ -35,3 +35,8 @@ Referencia operacional unica para ordem das etapas: este arquivo. AGENTS.md defi
 
 ## Retomada apos revisao expirada
 - Se decidir retornar REVISAO_EXPIRADA ou SEM_REVISAO_PENDENTE, sua proxima ferramenta e instagram_publicador em consultar_pacote na mesma pasta. Nao use glob para procurar o pacote ja conhecido. Se houver pendencia visual, confira o comprovante em out/aprovacao-visual.json e trate essa etapa. Se o QA passar, chame revisar e obtenha a nova decisao no fluxo. No caso de urgencia ou horario relativo ambiguo, confirme dia e hora antes de criar algo.
+
+## Prova visual assinada V2 obrigatoria
+- Leia `00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md`. O comprovante visual exige assinatura Ed25519 vinculada a cada PNG, legenda, ID de job e conta. Nome de auditor e hashes em JSON sem assinatura **nao autorizam** publicacao.
+- Somente o responsavel humano que inspecionou os arquivos reais pode assinar pelo procedimento local interativo com senha privada **fora do projeto**. Agentes nao executam a assinatura, nao pedem a senha e nao simulam comprovantes.
+- Os comprovantes antigos sem assinatura permanecem inaptos ate nova auditoria legitima. Se faltar chave publica confiavel no ALFA, falhe fechado; jamais remova essa verificacao para publicar.

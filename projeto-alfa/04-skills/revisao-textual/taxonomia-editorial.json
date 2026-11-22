@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "idioma": "pt-BR",
+  "objetivo": "Taxonomia editorial do projeto de carrosseis Instagram: vocabulario, categorias tematicas, referencias biblicas e checagens de sentido de alta confianca.",
+  "fontes": "Termos editoriais internos; regras contextuais nao substituem exegese nem consulta ao texto biblico.",
+  "categorias": [
+    {
+      "id": "vida_crista",
+      "rotulo": "Vida cristã",
+      "subcategorias": [
+        "fé",
+        "obediência",
+        "arrependimento",
+        "maturidade",
+        "testemunho",
+        "santificação"
+      ]
+    },
+    {
+      "id": "vida_comunitaria",
+      "rotulo": "Comunidade cristã",
+      "subcategorias": [
+        "igreja",
+        "comunhão",
+        "serviço",
+        "discipulado",
+        "edificação"
+      ]
+    },
+    {
+      "id": "doutrina",
+      "rotulo": "Doutrina bíblica",
+      "subcategorias": [
+        "salvação",
+        "graça",
+        "justificação",
+        "evangelho",
+        "transformação",
+        "nova vida"
+      ]
+    },
+    {
+      "id": "espiritualidade",
+      "rotulo": "Vida espiritual",
+      "subcategorias": [
+        "oração",
+        "leitura bíblica",
+        "fé morna",
+        "hipocrisia religiosa",
+        "religiosidade"
+      ]
+    },
+    {
+      "id": "alertas_eticos",
+      "rotulo": "Ética e comportamento",
+      "subcategorias": [
+        "língua",
+        "julgamento",
+        "orgulho",
+        "aparência",
+        "autoconhecimento"
+      ]
+    }
+  ],
+  "excecoes_dicionario": [
+    "robsonalencar",
+    "pastorrobsonalencar",
+    "poppins",
+    "playfair",
+    "alencar",
+    "crente",
+    "fariseu",
+    "fariseus",
+    "discípulo",
+    "discípulos",
+    "evangelho",
+    "ezequiel",
+    "apocalipse",
+    "romanos",
+    "hebreus",
+    "tiago",
+    "mateus",
+    "lucas",
+    "joão",
+    "paulo",
+    "jesus",
+    "cristo",
+    "deus",
+    "senhor",
+    "santificação",
+    "justificação",
+    "autojustificação",
+    "farisaísmo",
+    "nazareno",
+    "assembleia",
+    "mornidão",
+    "morneza",
+    "carrossel",
+    "slides",
+    "instagram",
+    "hashtags",
+    "mídias",
+    "escrituras",
+    "evangélico",
+    "evangélica",
+    "bíblica",
+    "bíblico",
+    "sub",
+    "cta",
+    "pixel",
+    "pixels"
+  ],
+  "termos_inadequados": [
+    {
+      "palavra": "mornidade",
+      "sugestao": "fé morna",
+      "motivo": "Forma inadequada na linguagem editorial; use o termo bíblico contextualizado."
+    },
+    {
+      "palavra": "tocsonomia",
+      "sugestao": "taxonomia",
+      "motivo": "Grafia incorreta."
+    },
+    {
+      "palavra": "taxionomia",
+      "sugestao": "taxonomia",
+      "motivo": "Prefira a forma padronizada adotada pelo projeto."
+    }
+  ],
+  "referencias": [
+    {
+      "citacao": "Mateus 7:21",
+      "categoria": "doutrina",
+      "tema": "Não basta dizer Senhor; importa fazer a vontade do Pai.",
+      "alerta": [
+        "Jesus não recebeu quem só chamava Ele de Senhor"
+      ],
+      "correcao": "Jesus ensina que apenas chamá-lo de Senhor não basta; importa fazer a vontade do Pai."
+    },
+    {
+      "citacao": "Apocalipse 3:15-16",
+      "categoria": "espiritualidade",
+      "tema": "Advertência a uma condição espiritual morna.",
+      "alerta": [
+        "a fé morna enjoa"
+      ],
+      "correcao": "Cristo adverte contra uma fé morna."
+    },
+    {
+      "citacao": "Lucas 18:11",
+      "categoria": "alertas_eticos",
+      "tema": "O fariseu exalta a própria justiça na oração; contrasta com o publicano.",
+      "alerta": [
+        "orava para ser visto"
+      ],
+      "correcao": "O fariseu exaltava a si mesmo em sua oração."
+    },
+    {
+      "citacao": "Mateus 7:3-5",
+      "categoria": "alertas_eticos",
+      "tema": "Hipocrisia ao julgar o outro sem reconhecer a própria falta.",
+      "alerta": [],
+      "correcao": ""
+    },
+    {
+      "citacao": "Tiago 1:22",
+      "categoria": "vida_crista",
+      "tema": "Praticar a Palavra, não apenas ouvi-la.",
+      "alerta": [],
+      "correcao": ""
+    },
+    {
+      "citacao": "Tiago 1:26",
+      "categoria": "alertas_eticos",
+      "tema": "Controle da língua e religiosidade enganosa.",
+      "alerta": [],
+      "correcao": ""
+    },
+    {
+      "citacao": "Hebreus 10:25",
+      "categoria": "vida_comunitaria",
+      "tema": "Não abandonar a congregação e encorajar uns aos outros.",
+      "alerta": [
+        "frequentar não é o mesmo que pertencer a Cristo"
+      ],
+      "correcao": "O versículo trata de congregação e encorajamento; distinguir aplicação pessoal da afirmação textual."
+    },
+    {
+      "citacao": "Ezequiel 36:26",
+      "categoria": "doutrina",
+      "tema": "Promessa de um novo coração no contexto da restauração de Israel.",
+      "alerta": [],
+      "correcao": ""
+    },
+    {
+      "citacao": "Romanos 12:2",
+      "categoria": "vida_crista",
+      "tema": "Transformação por renovação da mente.",
+      "alerta": [],
+      "correcao": ""
+    }
+  ],
+  "regras_gerais": [
+    {
+      "id": "atribuicao_fiel",
+      "regra": "Não atribuir a um versículo uma frase ou acontecimento que não está nele."
+    },
+    {
+      "id": "aplicacao_vs_sentido",
+      "regra": "Separar o significado original da aplicação pastoral contemporânea."
+    },
+    {
+      "id": "afirmacoes_absolutas",
+      "regra": "Não tratar sinais e experiências subjetivas como garantias de salvação ou da vontade de Deus."
+    },
+    {
+      "id": "correcao_com_prova",
+      "regra": "Termos detectados devem ser corrigidos no HTML fonte; em seguida renderizar e auditar novamente."
+    }
+  ]
+}

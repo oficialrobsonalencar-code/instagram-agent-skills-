@@ -1,0 +1,142 @@
+{
+  "schema_version": 2,
+  "padrao": "SETA_BAIXA_AJUSTADA_20261121",
+  "aprovacao": "pedido_explicito_usuario_seta_muito_para_cima",
+  "arquivo_referencia": "07-identidade-visual/padrao-oficial/REFERENCIA-CORRETA-PENULTIMA.png",
+  "arquivo_origem": "01-conteudo/carrossel-nao-tem-nada-aver-claro-post/out/slide-01.png",
+  "sha256_referencia": "65f781cdaaf23cd17e07f2171eaa2fc5751b25ff195b50ed8b78289537d5df74",
+  "formato": {
+    "width": 1080,
+    "height": 1350,
+    "grade_preview": 1080,
+    "centro_x": 540
+  },
+  "elementos": {
+    "css": {
+      ".seta": {
+        "position": "absolute",
+        "left": "50%",
+        "top": "300px",
+        "transform": "translateX(-50%)",
+        "width": "86px",
+        "height": "86px"
+      },
+      ".assinatura": {
+        "position": "absolute",
+        "left": "50%",
+        "top": "1089px",
+        "transform": "translateX(-50%)",
+        "white-space": "nowrap",
+        "display": "flex",
+        "align-items": "baseline"
+      },
+      ".assinatura .a": {
+        "font-family": "'Playfair Display',serif",
+        "font-style": "italic",
+        "font-weight": "400",
+        "font-size": "42px",
+        "letter-spacing": "-0.02em"
+      },
+      ".assinatura .b": {
+        "font-weight": "800",
+        "font-size": "38px",
+        "letter-spacing": "-0.05em"
+      }
+    },
+    "svg_must_include": [
+      "viewBox='0 0 86 86'",
+      "stroke-width='3'",
+      "<circle cx='43' cy='43' r='40'/>",
+      "<path d='M28 43h30M47 33l10 10-10 10'"
+    ],
+    "pixel_bbox": {
+      "seta": {
+        "roi": [
+          460,
+          278,
+          625,
+          413
+        ],
+        "bbox": [
+          493,
+          296,
+          586,
+          389
+        ],
+        "tolerance_px": 5
+      },
+      "assinatura": {
+        "roi": [
+          300,
+          1070,
+          790,
+          1160
+        ],
+        "bbox": [
+          335,
+          1101,
+          750,
+          1144
+        ],
+        "tolerance_px": 8
+      }
+    },
+    "textos_assinatura": [
+      "@pastor",
+      "robsonalencar"
+    ],
+    "signature_min_f1_light": 0.985,
+    "signature_min_f1_dark": 0.94
+  },
+  "reprovado": {
+    "ultima_imagem_print": "QUARTA-DE-QUATRO, errada, nao copiar",
+    "previews_top220": "01-conteudo/preview-slide/carrossel-nao-tem-nada-aver-claro/",
+    "preview_v2": "01-conteudo/preview-slide/carrossel-nao-tem-nada-aver-claro-v2/",
+    "antigo_padrao_top177": "NAO_USAR_EM_NOVOS_CARROSSEIS",
+    "seta_alta_top_137px": "nao usar em novas artes"
+  },
+  "proibido": "modificar SVG, seta, tamanho, altura, tipografia, espacos e base da assinatura sem ordem expressa",
+  "mutavel": "texto editorial, artes do centro, foto/cena, fundo e cor de contraste, aprovados para novo carrossel",
+  "escopo": "TODOS os carrosseis futuros e TODOS os slides, inclusive fundo claro ou escuro",
+  "assinatura_unica_global": true,
+  "assinatura_cor_pode_variar_para_contraste": true,
+  "assinatura_alteracoes_proibidas": [
+    "altura",
+    "tamanho",
+    "tipografia",
+    "peso",
+    "italico",
+    "espacamento",
+    "alinhamento",
+    "linha de base",
+    "proporcao"
+  ],
+  "qa_obrigatorio": "02-scripts/validar_padrao_carrossel.py",
+  "exportador_obrigatorio": "04-skills/carrossel/scripts/exportar.mjs",
+  "referencia_legada": {
+    "referencia_png_preservada": true,
+    "seta_pixel_bbox_original": {
+      "roi": [
+        460,
+        115,
+        625,
+        250
+      ],
+      "bbox": [
+        493,
+        133,
+        586,
+        226
+      ],
+      "tolerance_px": 5
+    },
+    "nota": "PNG antigo preservado para desenho seta, assinatura e fontes; altura antiga rejeitada"
+  },
+  "alteracao_seta": {
+    "top_anterior_px": 137,
+    "top_atual_px": 300,
+    "motivo": "Rejeicao explicita do usuario apos publicacao: seta muito para cima",
+    "nova_medida": "corrigida para novas artes, aguardando aprovacao estetica do usuario",
+    "assinatura_permanece": "top1089px sem alteracao"
+  }
+}

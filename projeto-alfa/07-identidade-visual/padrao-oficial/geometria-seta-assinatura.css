@@ -1,0 +1,6 @@
+/* BLOQUEIO OFICIAL: somente cor pode variar conforme fundo */
+:root { --ig-tinta: #151514; }
+.seta { position:absolute; left:50%; top:300px; transform:translateX(-50%); width:86px; height:86px; }
+.assinatura { position:absolute; left:50%; top:1089px; transform:translateX(-50%); white-space:nowrap; display:flex; align-items:baseline; }
+.assinatura .a { font-family:'Playfair Display',serif; font-style:italic; font-weight:400; font-size:42px; letter-spacing:-0.02em; color:var(--ig-tinta); }
+.assinatura .b { font-family:'Poppins',sans-serif; font-weight:800; font-size:38px; letter-spacing:-0.05em; color:var(--ig-tinta); }

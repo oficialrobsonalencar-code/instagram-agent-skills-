@@ -46,3 +46,7 @@ Requisitos por skill:
 
 **Robson Alencar** — [@pastorrobsonalencar](https://www.instagram.com/pastorrobsonalencar/)
 
+
+## Projeto Instagram completo do ALFA: codigo tecnico
+
+Veja [projeto-alfa/](projeto-alfa/README.md) e [mapa ponta a ponta](projeto-alfa/MAPA-PONTA-A-PONTA.md). Nenhuma imagem, credencial ou sessao foi enviada.

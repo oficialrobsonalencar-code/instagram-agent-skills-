@@ -1,0 +1,18 @@
+import { strict as assert } from 'node:assert';
+import { QualityDirectorPlugin } from '../.opencode/plugins/quality-director.js';
+const directory = 'I:/Projetos/Instagram-RobsonAlencar';
+const hooks = await QualityDirectorPlugin({ directory });
+assert.equal(typeof hooks['experimental.chat.system.transform'], 'function');
+assert.equal(typeof hooks['experimental.session.compacting'], 'function');
+const context = { system: [] };
+await hooks['experimental.chat.system.transform']({},context);
+assert.equal(context.system.length,1);
+assert.ok(context.system[0].includes('NAO') || context.system[0].includes('Nao'));
+await hooks['experimental.chat.system.transform']({},context);
+assert.equal(context.system.length,1);
+const compact = { context: [] };
+await hooks['experimental.session.compacting']({},compact);
+assert.equal(compact.context.length,1);
+const outside=await QualityDirectorPlugin({directory:'C:/temp'});
+assert.equal(Object.keys(outside).length,0);
+console.log('QUALITY_DIRECTOR_HOOKS_OK');

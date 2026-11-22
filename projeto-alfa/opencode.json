@@ -1,0 +1,43 @@
+{
+    "$schema":  "https://opencode.ai/config.json",
+    "skills":  {
+                   "paths":  [
+                                 "I:/Projetos/Instagram-RobsonAlencar/04-skills/carrossel",
+                                 "I:/Projetos/Instagram-RobsonAlencar/04-skills/ig-caption",
+                                 "I:/Projetos/Instagram-RobsonAlencar/04-skills/humanizer",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/typography-scale",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/visual-hierarchy",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/layout-grid",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/color-system",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/illustration-style",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/ui-design/skills/readable-measure",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-typography",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-composition",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-brand-consistency",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-color",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-visual-hierarchy",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/design-ops/skills/design-qa-checklist",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-information-density",
+                                 "I:/Projetos/Instagram-RobsonAlencar/06-referencias/designer-skills/visual-critique/skills/critique-affordance",
+                                 "I:/Projetos/Instagram-RobsonAlencar/04-skills/revisao-textual",
+                                 "04-skills/ig-carousel",
+                                 "04-skills/ig-reel",
+                                 "04-skills/ig-story",
+                                 "04-skills/ig-plan",
+                                 "04-skills/ig-repurpose",
+                                 "04-skills/ig-viral",
+                                 "04-skills/ig-audit",
+                                 "04-skills/ig-profile"
+                             ]
+               },
+    "instructions":  [
+                         "00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/PADRAO-OFICIAL-SETA-ASSINATURA-20261121.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/LEGENDA-OBRIGATORIA-CARROSSEL.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/FLUXO-EDITORIAL-LEGENDA.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/FIDELIDADE-REFERENCIA-EXECUCAO.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/FLUXO-PERGUNTAS-CARROSSEL-20261121.md",
+                         "I:/Projetos/Instagram-RobsonAlencar/00-regras/REVISAO-TEXTUAL-SEMANTICA-TAXONOMIA.md"
+                     ],
+    "default_agent":  "modo-deus"
+}

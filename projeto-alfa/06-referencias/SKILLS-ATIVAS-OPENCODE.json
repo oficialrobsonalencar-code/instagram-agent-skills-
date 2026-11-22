@@ -1,0 +1,1043 @@
+{
+    "skills":  [
+                   {
+                       "name":  "customize-opencode",
+                       "location":  "\u003cbuilt-in\u003e"
+                   },
+                   {
+                       "name":  "video-editing-workflow",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.agents\\skills\\video-editing-workflow\\SKILL.md"
+                   },
+                   {
+                       "name":  "ux-engineer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ux-engineer\\SKILL.md"
+                   },
+                   {
+                       "name":  "waatch-motion",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\waatch-motion\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-onboard",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-onboard\\SKILL.md"
+                   },
+                   {
+                       "name":  "vercel-react-best-practices",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\vercel-react-best-practices\\SKILL.md"
+                   },
+                   {
+                       "name":  "verification-before-completion",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\verification-before-completion\\SKILL.md"
+                   },
+                   {
+                       "name":  "watch",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\watch\\SKILL.md"
+                   },
+                   {
+                       "name":  "tilegym-cutile-python",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\tilegym-cutile-python\\SKILL.md"
+                   },
+                   {
+                       "name":  "remotion-to-hyperframes",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\remotion-to-hyperframes\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-chat",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-chat\\SKILL.md"
+                   },
+                   {
+                       "name":  "systematic-debugging",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\systematic-debugging\\SKILL.md"
+                   },
+                   {
+                       "name":  "slideshow",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\slideshow\\SKILL.md"
+                   },
+                   {
+                       "name":  "tilegym-cutile-autotuning",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\tilegym-cutile-autotuning\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-architect",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-architect\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-dashboard",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-dashboard\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-knowledge",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-knowledge\\SKILL.md"
+                   },
+                   {
+                       "name":  "swap",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\swap\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand\\SKILL.md"
+                   },
+                   {
+                       "name":  "talking-head-recut",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\talking-head-recut\\SKILL.md"
+                   },
+                   {
+                       "name":  "ui-designer-pro",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ui-designer-pro\\SKILL.md"
+                   },
+                   {
+                       "name":  "remotion-best-practices",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\remotion-best-practices\\SKILL.md"
+                   },
+                   {
+                       "name":  "industrial-brutalist-ui",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\industrial-brutalist-ui\\SKILL.md"
+                   },
+                   {
+                       "name":  "skill-dashboard",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\skill-dashboard\\SKILL.md"
+                   },
+                   {
+                       "name":  "warp-eval",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\warp-eval\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-deploy",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-deploy\\SKILL.md"
+                   },
+                   {
+                       "name":  "ui-ux-director",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ui-ux-director\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-backend",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-backend\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-repurpose",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-repurpose\\SKILL.md"
+                   },
+                   {
+                       "name":  "high-end-visual-design",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\high-end-visual-design\\SKILL.md"
+                   },
+                   {
+                       "name":  "security-audit",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\security-audit\\SKILL.md"
+                   },
+                   {
+                       "name":  "legenda",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\legenda\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-figma",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-figma\\SKILL.md"
+                   },
+                   {
+                       "name":  "microsoft-foundry",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\SKILL.md"
+                   },
+                   {
+                       "name":  "geracao-visual-global",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\geracao-visual-global\\SKILL.md"
+                   },
+                   {
+                       "name":  "hallucination-prevention",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hallucination-prevention\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-recon",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-recon\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-marketing",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-carousel",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-carousel\\SKILL.md"
+                   },
+                   {
+                       "name":  "stitch-design-taste",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\stitch-design-taste\\SKILL.md"
+                   },
+                   {
+                       "name":  "motion-designer-pro",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\motion-designer-pro\\SKILL.md"
+                   },
+                   {
+                       "name":  "learn-mcp",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\learn-mcp\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-human",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ig-human\\SKILL.md"
+                   },
+                   {
+                       "name":  "graphify",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\graphify\\SKILL.md"
+                   },
+                   {
+                       "name":  "reverse-engineer-anything",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\reverse-engineer-anything\\SKILL.md"
+                   },
+                   {
+                       "name":  "minimalist-ui",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\minimalist-ui\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-diff",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-diff\\SKILL.md"
+                   },
+                   {
+                       "name":  "reel",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\reel\\SKILL.md"
+                   },
+                   {
+                       "name":  "media-use",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\media-use\\SKILL.md"
+                   },
+                   {
+                       "name":  "gpt-taste",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gpt-taste\\SKILL.md"
+                   },
+                   {
+                       "name":  "fastgen-setup",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\fastgen-setup\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-comment",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ig-comment\\SKILL.md"
+                   },
+                   {
+                       "name":  "humanizer",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\humanizer\\SKILL.md"
+                   },
+                   {
+                       "name":  "start-learning",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\start-learning\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-reel",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-reel\\SKILL.md"
+                   },
+                   {
+                       "name":  "general-video",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\general-video\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-core",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-core\\SKILL.md"
+                   },
+                   {
+                       "name":  "task-observer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\task-observer\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-viral",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-viral\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-cli",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-cli\\SKILL.md"
+                   },
+                   {
+                       "name":  "social-publisher",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\social-publisher\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-brand",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-brand\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-performance",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-performance\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-scrolltrigger",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-scrolltrigger\\SKILL.md"
+                   },
+                   {
+                       "name":  "tokenized-agents",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\tokenized-agents\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-story",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-story\\SKILL.md"
+                   },
+                   {
+                       "name":  "find-your-level",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\find-your-level\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-build",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-build\\SKILL.md"
+                   },
+                   {
+                       "name":  "figma",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\figma\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-core",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-core\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-diff",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-diff\\SKILL.md"
+                   },
+                   {
+                       "name":  "motion-design",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\motion-design\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-creative",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-creative\\SKILL.md"
+                   },
+                   {
+                       "name":  "email-marketing-bible",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\email-marketing-bible\\skills\\email-marketing-bible\\SKILL.md"
+                   },
+                   {
+                       "name":  "full-output-enforcement",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\full-output-enforcement\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-plan",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-plan\\SKILL.md"
+                   },
+                   {
+                       "name":  "accelerated-computing-cudf",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\accelerated-computing-cudf\\SKILL.md"
+                   },
+                   {
+                       "name":  "tilegym-improve-cutile-kernel-perf",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\tilegym-improve-cutile-kernel-perf\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-react",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-react\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-audio",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-audio\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-plugins",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-plugins\\SKILL.md"
+                   },
+                   {
+                       "name":  "eli5",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\eli5\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-timeline",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-timeline\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-audit",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-audit\\SKILL.md"
+                   },
+                   {
+                       "name":  "embedded-captions",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\embedded-captions\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-studio",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-studio\\SKILL.md"
+                   },
+                   {
+                       "name":  "find-skills",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\find-skills\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-frameworks",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-frameworks\\SKILL.md"
+                   },
+                   {
+                       "name":  "anti-hallucinate",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\anti-hallucinate\\SKILL.md"
+                   },
+                   {
+                       "name":  "gsap-utils",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\gsap-utils\\SKILL.md"
+                   },
+                   {
+                       "name":  "course-guide",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\course-guide\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-keyframes",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-keyframes\\SKILL.md"
+                   },
+                   {
+                       "name":  "faceless-explainer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\faceless-explainer\\SKILL.md"
+                   },
+                   {
+                       "name":  "fastgen-validate",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\fastgen-validate\\SKILL.md"
+                   },
+                   {
+                       "name":  "rag-eval",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\rag-eval\\SKILL.md"
+                   },
+                   {
+                       "name":  "data-designer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\data-designer\\SKILL.md"
+                   },
+                   {
+                       "name":  "imagegen-frontend-mobile",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\imagegen-frontend-mobile\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-registry",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-registry\\SKILL.md"
+                   },
+                   {
+                       "name":  "seo",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\agentic-seo\\SKILL.md"
+                   },
+                   {
+                       "name":  "check-understanding",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\check-understanding\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes-animation",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes-animation\\SKILL.md"
+                   },
+                   {
+                       "name":  "ovi-local",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ovi-local\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-caption",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-caption\\SKILL.md"
+                   },
+                   {
+                       "name":  "perfil",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\perfil\\SKILL.md"
+                   },
+                   {
+                       "name":  "music-to-video",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\music-to-video\\SKILL.md"
+                   },
+                   {
+                       "name":  "guia-maquina-de-reels",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.agents\\skills\\guia-maquina-de-reels\\SKILL.md"
+                   },
+                   {
+                       "name":  "claude-certification",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\claude-certification\\SKILL.md"
+                   },
+                   {
+                       "name":  "cloudflare-deploy",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\cloudflare-deploy\\SKILL.md"
+                   },
+                   {
+                       "name":  "book-to-skill",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\book-to-skill\\SKILL.md"
+                   },
+                   {
+                       "name":  "pr-to-video",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\pr-to-video\\SKILL.md"
+                   },
+                   {
+                       "name":  "fact-check",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\fact-check\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-entrepreneur",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-entrepreneur\\SKILL.md"
+                   },
+                   {
+                       "name":  "qualidade-visual-3d",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\qualidade-visual-3d\\SKILL.md"
+                   },
+                   {
+                       "name":  "img2threejs",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\img2threejs\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-mestre",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-mestre\\SKILL.md"
+                   },
+                   {
+                       "name":  "fastgen-configure",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\fastgen-configure\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-launch",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-launch\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-explain",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-explain\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-dna",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-dna\\SKILL.md"
+                   },
+                   {
+                       "name":  "prompt-injection-defense",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\prompt-injection-defense\\SKILL.md"
+                   },
+                   {
+                       "name":  "impeccable",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\impeccable\\SKILL.md"
+                   },
+                   {
+                       "name":  "freetoken-local",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\freetoken-local\\SKILL.md"
+                   },
+                   {
+                       "name":  "motion-graphics",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\motion-graphics\\SKILL.md"
+                   },
+                   {
+                       "name":  "comentarios",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comentarios\\SKILL.md"
+                   },
+                   {
+                       "name":  "learn-agent-skills",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\learn-agent-skills\\SKILL.md"
+                   },
+                   {
+                       "name":  "ai-output-validation",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ai-output-validation\\SKILL.md"
+                   },
+                   {
+                       "name":  "fastgen-inference",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\fastgen-inference\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-dm",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ig-dm\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-reply",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\ig-reply\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-profile",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\ig-profile\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-design",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-design\\SKILL.md"
+                   },
+                   {
+                       "name":  "nvidia-skill-finder",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\nvidia-skill-finder\\SKILL.md"
+                   },
+                   {
+                       "name":  "product-launch-video",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\product-launch-video\\SKILL.md"
+                   },
+                   {
+                       "name":  "rag-and-memory",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\rag-and-memory\\SKILL.md"
+                   },
+                   {
+                       "name":  "avoid-ai-design",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\avoid-ai-design\\SKILL.md"
+                   },
+                   {
+                       "name":  "replica-test",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\replica-test\\SKILL.md"
+                   },
+                   {
+                       "name":  "understand-domain",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\understand-domain\\SKILL.md"
+                   },
+                   {
+                       "name":  "meta-ads-audit",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\meta-ads-auditor\\SKILL.md"
+                   },
+                   {
+                       "name":  "create-coin",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\create-coin\\SKILL.md"
+                   },
+                   {
+                       "name":  "direcao-arte-cinematografica",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\direcao-arte-cinematografica\\SKILL.md"
+                   },
+                   {
+                       "name":  "coin-fees",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\coin-fees\\SKILL.md"
+                   },
+                   {
+                       "name":  "rag-perf",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\rag-perf\\SKILL.md"
+                   },
+                   {
+                       "name":  "cudf-query-engine-builder",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\cudf-query-engine-builder\\SKILL.md"
+                   },
+                   {
+                       "name":  "brandkit",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\brandkit\\SKILL.md"
+                   },
+                   {
+                       "name":  "learn",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\learn\\SKILL.md"
+                   },
+                   {
+                       "name":  "redesign-existing-projects",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\redesign-existing-projects\\SKILL.md"
+                   },
+                   {
+                       "name":  "nemotron-speech",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\nemotron-speech\\SKILL.md"
+                   },
+                   {
+                       "name":  "editonny",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\editonny\\SKILL.md"
+                   },
+                   {
+                       "name":  "image-to-3d-rebuild",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\image-to-3d-rebuild\\SKILL.md"
+                   },
+                   {
+                       "name":  "rag-blueprint",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\rag-blueprint\\SKILL.md"
+                   },
+                   {
+                       "name":  "editonny-auto",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.agents\\skills\\editonny-auto\\SKILL.md"
+                   },
+                   {
+                       "name":  "hyperframes",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\hyperframes\\SKILL.md"
+                   },
+                   {
+                       "name":  "carrossel",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\carrossel\\SKILL.md"
+                   },
+                   {
+                       "name":  "imagegen-frontend-web",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\imagegen-frontend-web\\SKILL.md"
+                   },
+                   {
+                       "name":  "comfyui-troubleshooter",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comfyui-troubleshooter\\SKILL.md"
+                   },
+                   {
+                       "name":  "image-to-code",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\image-to-code\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-taste-frontend-v1",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-taste-frontend-v1\\SKILL.md"
+                   },
+                   {
+                       "name":  "comfyui-video-pipeline",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comfyui-video-pipeline\\SKILL.md"
+                   },
+                   {
+                       "name":  "comfyui-api",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comfyui-api\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-taste-frontend",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-taste-frontend\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-motion-principles",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-motion-principles\\SKILL.md"
+                   },
+                   {
+                       "name":  "comfyui-prompt-engineer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comfyui-prompt-engineer\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-audit",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-audit\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-seo",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-seo\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-edit",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-edit\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-package",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-package\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-viral",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-viral\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-system-architect",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\design-system-architect\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-chapters",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-chapters\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-comment",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-comment\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-retention",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-retention\\SKILL.md"
+                   },
+                   {
+                       "name":  "comfyui-workflow-builder",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\comfyui-workflow-builder\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-plan",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-plan\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-shorts",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-shorts\\SKILL.md"
+                   },
+                   {
+                       "name":  "yt-script",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\youtube-agent\\skills\\yt-script\\SKILL.md"
+                   },
+                   {
+                       "name":  "finetuning",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\finetuning\\SKILL.md"
+                   },
+                   {
+                       "name":  "using-git-worktrees",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\using-git-worktrees\\SKILL.md"
+                   },
+                   {
+                       "name":  "writing-plans",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\writing-plans\\SKILL.md"
+                   },
+                   {
+                       "name":  "using-superpowers",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\using-superpowers\\SKILL.md"
+                   },
+                   {
+                       "name":  "compute-sanitizer-diagnose-cuda-bugs",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\compute-sanitizer-diagnose-cuda-bugs\\SKILL.md"
+                   },
+                   {
+                       "name":  "dispatching-parallel-agents",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\dispatching-parallel-agents\\SKILL.md"
+                   },
+                   {
+                       "name":  "receiving-code-review",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\receiving-code-review\\SKILL.md"
+                   },
+                   {
+                       "name":  "diagnosing-superpowers",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\diagnosing-superpowers\\SKILL.md"
+                   },
+                   {
+                       "name":  "test-driven-development",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\test-driven-development\\SKILL.md"
+                   },
+                   {
+                       "name":  "writing-skills",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\writing-skills\\SKILL.md"
+                   },
+                   {
+                       "name":  "finishing-a-development-branch",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\finishing-a-development-branch\\SKILL.md"
+                   },
+                   {
+                       "name":  "brainstorming",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\brainstorming\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-repurposer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-repurposer\\SKILL.md"
+                   },
+                   {
+                       "name":  "requesting-code-review",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\requesting-code-review\\SKILL.md"
+                   },
+                   {
+                       "name":  "executing-plans",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\executing-plans\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-profile-optimizer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-profile-optimizer\\SKILL.md"
+                   },
+                   {
+                       "name":  "subagent-driven-development",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\superpowers\\skills\\subagent-driven-development\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-hook-extractor",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-hook-extractor\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-humanizer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-humanizer\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-content-planner",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-content-planner\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-audience-insights",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-audience-insights\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-caption-writer",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-caption-writer\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-carousel-planner",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-carousel-planner\\SKILL.md"
+                   },
+                   {
+                       "name":  "deploy-model",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\models\\deploy-model\\SKILL.md"
+                   },
+                   {
+                       "name":  "preset",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\models\\deploy-model\\preset\\SKILL.md"
+                   },
+                   {
+                       "name":  "capacity",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\models\\deploy-model\\capacity\\SKILL.md"
+                   },
+                   {
+                       "name":  "skill-dashboard-launcher",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\skill-dashboard\\.codex\\skills\\skill-dashboard-launcher\\SKILL.md"
+                   },
+                   {
+                       "name":  "customize",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\microsoft-foundry\\models\\deploy-model\\customize\\SKILL.md"
+                   },
+                   {
+                       "name":  "ig-hashtag-strategist",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.agents\\skills\\instagram-marketing\\.codex-marketplace\\instagram-skills\\skills\\ig-hashtag-strategist\\SKILL.md"
+                   },
+                   {
+                       "name":  "skill-checkup",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.agents\\skills\\skill-checkup\\SKILL.md"
+                   },
+                   {
+                       "name":  "ecc-tdd-workflow",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\ecc-tdd-workflow\\SKILL.md"
+                   },
+                   {
+                       "name":  "ecc-eval-harness",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\ecc-eval-harness\\SKILL.md"
+                   },
+                   {
+                       "name":  "ecc-context-budget",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\ecc-context-budget\\SKILL.md"
+                   },
+                   {
+                       "name":  "whats-the-difference-short",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.agents\\skills\\whats-the-difference-short\\SKILL.md"
+                   },
+                   {
+                       "name":  "modo-deus-verificacao",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\modo-deus-verificacao\\SKILL.md"
+                   },
+                   {
+                       "name":  "modo-deus-memoria",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\modo-deus-memoria\\SKILL.md"
+                   },
+                   {
+                       "name":  "vision-qa-local",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\vision-qa-local\\SKILL.md"
+                   },
+                   {
+                       "name":  "vox-explainer",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\vox-explainer\\SKILL.md"
+                   },
+                   {
+                       "name":  "modo-deus-orquestracao",
+                       "location":  "C:\\Users\\ROBSON ALENCAR\\.config\\opencode\\skills\\modo-deus-orquestracao\\SKILL.md"
+                   },
+                   {
+                       "name":  "review-animations",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\review-animations\\SKILL.md"
+                   },
+                   {
+                       "name":  "visual-regression-testing",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\visual-regression-testing\\SKILL.md"
+                   },
+                   {
+                       "name":  "title-sequence-3d",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\title-sequence-3d\\SKILL.md"
+                   },
+                   {
+                       "name":  "reel-export",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\reel-export\\SKILL.md"
+                   },
+                   {
+                       "name":  "visual-reference-adapter",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\visual-reference-adapter\\SKILL.md"
+                   },
+                   {
+                       "name":  "break-ui",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\break-ui\\SKILL.md"
+                   },
+                   {
+                       "name":  "motion-effects",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\motion-effects\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-destaques",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\instagram-destaques\\SKILL.md"
+                   },
+                   {
+                       "name":  "reference-to-motion",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\reference-to-motion\\SKILL.md"
+                   },
+                   {
+                       "name":  "animation-vocabulary",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\animation-vocabulary\\SKILL.md"
+                   },
+                   {
+                       "name":  "motion-brief-writer",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\motion-brief-writer\\SKILL.md"
+                   },
+                   {
+                       "name":  "brand-intake",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\brand-intake\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-last30days",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\instagram-last30days\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-processo-verificado",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\instagram-processo-verificado\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-caption-editor",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\instagram-caption-editor\\SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-director",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\instagram-director\\SKILL.md"
+                   },
+                   {
+                       "name":  "loop-cover",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\loop-cover\\SKILL.md"
+                   },
+                   {
+                       "name":  "gitnexus-code-impact",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\gitnexus-code-impact\\SKILL.md"
+                   },
+                   {
+                       "name":  "animation-performance",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\animation-performance\\SKILL.md"
+                   },
+                   {
+                       "name":  "higgsfield-editor-bridge",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\higgsfield-editor-bridge\\SKILL.md"
+                   },
+                   {
+                       "name":  "animated-chart",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\animated-chart\\SKILL.md"
+                   },
+                   {
+                       "name":  "playwright-skill",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\playwright-skill\\SKILL.md"
+                   },
+                   {
+                       "name":  "historical-expert",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\historical-expert\\SKILL.md"
+                   },
+                   {
+                       "name":  "ontology-define",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\ontology-define\\SKILL.md"
+                   },
+                   {
+                       "name":  "emil-design-eng",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\emil-design-eng\\SKILL.md"
+                   },
+                   {
+                       "name":  "choreograph",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\choreograph\\SKILL.md"
+                   },
+                   {
+                       "name":  "playwright-trace",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\playwright-skill\\node_modules\\playwright-core\\lib\\tools\\skills\\playwright-trace\\SKILL.md"
+                   },
+                   {
+                       "name":  "playwright-cli",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\playwright-skill\\node_modules\\playwright-core\\lib\\tools\\skills\\playwright-cli\\SKILL.md"
+                   },
+                   {
+                       "name":  "typography-scale",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\typography-scale\\SKILL.md"
+                   },
+                   {
+                       "name":  "layout-grid",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\layout-grid\\SKILL.md"
+                   },
+                   {
+                       "name":  "visual-hierarchy",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\visual-hierarchy\\SKILL.md"
+                   },
+                   {
+                       "name":  "playwright-component-testing",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\.opencode\\skills\\playwright-skill\\node_modules\\playwright-core\\lib\\tools\\skills\\playwright-component-testing\\SKILL.md"
+                   },
+                   {
+                       "name":  "color-system",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\color-system\\SKILL.md"
+                   },
+                   {
+                       "name":  "readable-measure",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\readable-measure\\SKILL.md"
+                   },
+                   {
+                       "name":  "illustration-style",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\ui-design\\skills\\illustration-style\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-typography",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-typography\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-composition",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-composition\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-brand-consistency",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-brand-consistency\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-color",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-color\\SKILL.md"
+                   },
+                   {
+                       "name":  "design-qa-checklist",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\design-ops\\skills\\design-qa-checklist\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-visual-hierarchy",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-visual-hierarchy\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-affordance",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-affordance\\SKILL.md"
+                   },
+                   {
+                       "name":  "critique-information-density",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\06-referencias\\designer-skills\\visual-critique\\skills\\critique-information-density\\SKILL.md"
+                   },
+                   {
+                       "name":  "revisao-textual",
+                       "location":  "I:\\Projetos\\Instagram-RobsonAlencar\\04-skills\\revisao-textual\\SKILL.md"
+                   }
+               ],
+    "source":  "opencode debug skill",
+    "missing":  [
+
+                ],
+    "root":  "I:\\Projetos\\Instagram-RobsonAlencar",
+    "total":  258,
+    "checked_at":  "2026-11-22T01:54:11.8887026-03:00"
+}

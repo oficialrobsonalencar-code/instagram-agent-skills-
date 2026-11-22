@@ -1,0 +1,1541 @@
+{
+  "data": "2026-11-22",
+  "escopo": "codigo e documentacao tecnica",
+  "arquivos": 306,
+  "bytes": 3157107,
+  "bloqueados_por_seguranca": [],
+  "erros_sintaxe": [],
+  "js_verificados": 53,
+  "files": [
+    {
+      "path": ".agents/SKILL.md",
+      "bytes": 777,
+      "sha256": "90fcd648f6270ec8eb1e00529a5a82f4a4967370a2df9f439bea87ead2b1d99e"
+    },
+    {
+      "path": ".agents/skills/editonny-auto/SKILL.md",
+      "bytes": 3257,
+      "sha256": "cd78d37c7a46b6164b2d38c8991e538d0d68ef283413572b85bd289e8aec0e53"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/SKILL.md",
+      "bytes": 3274,
+      "sha256": "a78472a3824f27fd7ddef14de8cc3b8ac5955b6fe2258d443a7b0032c0acf1e1"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/chapters/ch01-introducao.md",
+      "bytes": 800,
+      "sha256": "f2cc2f14505ed576623b1da9a24d921b401dbfb8820e5abb703f0a363b4a69da"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/chapters/ch02-criacao-conteudo.md",
+      "bytes": 851,
+      "sha256": "7e94e34b4b91ac9b5a4e65502eb3c7e75232227c27bd52800483802fc96ada96"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/cheatsheet.md",
+      "bytes": 1147,
+      "sha256": "e8bf0d1729ad5350716c658e898192bb0a9bf191f119a115bb3aae79a6d4b38a"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/glossary.md",
+      "bytes": 778,
+      "sha256": "e7860a5b8c90f5ba4c7eba86d832c702d327359b8d2bd403e3a06b5c890c7d50"
+    },
+    {
+      "path": ".agents/skills/guia-maquina-de-reels/patterns.md",
+      "bytes": 1053,
+      "sha256": "d8b94c2c3b09e979eefcd51fb59f07a77cf6b433743b63c7998eb882c9f04dca"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/.gitignore",
+      "bytes": 271,
+      "sha256": "d4b7bcf49b2a27b6bf73018fccc41c14877f8f50a49b9fee1c2857060694688a"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/README.md",
+      "bytes": 16024,
+      "sha256": "db30049edbdbafe16c26ac6abc9c7478135bec9a63893f37429b75d70fc86d8a"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/README.zh-CN.md",
+      "bytes": 15137,
+      "sha256": "84e4c0a7f5f9ccff13b2e5c0b8ff964cfabcf071b2417bfc96d9f962df7fa707"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/SKILL.md",
+      "bytes": 7547,
+      "sha256": "50c058d227b5c2049cb9f482824c9ed690810259726b92c461ff2140759a9905"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/apply-safety.md",
+      "bytes": 1821,
+      "sha256": "c44d5f12b9c3e8712c2b3f737959bb802c44d7881557d6828342fe3fef622cce"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/assets-vs-references.md",
+      "bytes": 1776,
+      "sha256": "7ce35f0e140cd5718099a3fea179192f87466d8c8d02a8504291ec9ced53a0b3"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/body-quality-checklist.md",
+      "bytes": 3480,
+      "sha256": "59fc8a2d91e0b5ea449c55fef35756f9422a5d3c1a3cdeee28a6dbbdf966ba13"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/catalog-skill-pattern.md",
+      "bytes": 3702,
+      "sha256": "9474647261d6ceb9716228a5f117f56f3b341fbc77f319871ae777624562245b"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/description-templates.md",
+      "bytes": 8332,
+      "sha256": "795dc1f551975d35a5be1cc47599f532e7cbbe7e54ac4c7ed0c71f40c70509f8"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/effect-dry-run.md",
+      "bytes": 5434,
+      "sha256": "efbd26558c1cfc2d926871642b0d8e9a60600999385b0d9bde0eb01104112e02"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/exception-fallback.md",
+      "bytes": 1500,
+      "sha256": "adb962c9045e661d8473c383987b6d986fb7d5ed0fdbb245be2cf07f1b57620a"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/hard-code-vs-llm-judgment.md",
+      "bytes": 5701,
+      "sha256": "1f707708c4a3a093a8c991ad08778bfe3a2eb4239fea93baa5b4a12954643039"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/hard-rules.md",
+      "bytes": 4211,
+      "sha256": "6b74544f64a4d7d0d1cd85a1bd267a8eebb766218ba2d5ba1ec4534e215ad259"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/index.md",
+      "bytes": 8606,
+      "sha256": "3466c59143405b91de17d633be700a0ce70f70d5c81baa26bfd93df2b17b2b65"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/language-policy.md",
+      "bytes": 646,
+      "sha256": "7a97c3da3cec077dd0f7185f691711c57d347fac495fe19114ae497935671ccd"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/live-injection-check.md",
+      "bytes": 1281,
+      "sha256": "a8e720cc393958787b8fd59a36c88c6d5e520be4fc33fd949c99c7b207b73d27"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/output-format.md",
+      "bytes": 9958,
+      "sha256": "47c92406fce378d8c2be069017027439f34be0badc99132f64b0d3db8849f885"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/predictability-glossary.md",
+      "bytes": 6706,
+      "sha256": "3b70f70b5ad80f32f93618baabef031543d79945aba8a151c762f113ae541d4d"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/priority-tiers.md",
+      "bytes": 2361,
+      "sha256": "25a6a9497127a26589e350c20ce3d7f7afcd40c42d1de54b5e0f7aa706749704"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/rationale.md",
+      "bytes": 517,
+      "sha256": "c830cdf552152b25faba1b0020294bbaa310d088b12047ff05c6de92e03d7138"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/runtime-contract.md",
+      "bytes": 10149,
+      "sha256": "32c967872c04b90f0923323e2f6b4b422b9aedbddc1c737172f8e905a254b81f"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/slimming-workflow.md",
+      "bytes": 5855,
+      "sha256": "fcd5a3301a1e6b171179cc83c2448e3b93fe6742eec37d0ec57eb8cf0b07c212"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/structure-surgery.md",
+      "bytes": 6538,
+      "sha256": "988b7bcb4bc9d1007095dfe4992ab44c91c2e8523ed5743787b1a1e2318ba2eb"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/visible-output-rule.md",
+      "bytes": 2711,
+      "sha256": "b6616c946331e464e467618a97dfaf523276527105626caffd1c1eeee289396e"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/references/yaml-pitfalls.md",
+      "bytes": 4866,
+      "sha256": "b31f254c7736c1d0fd1154e0b7d1d351109c4996e61bea4a20135ff22006f8aa"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/check_desc_slim.py",
+      "bytes": 4138,
+      "sha256": "e905a519df253e5fcffd763155212b605f067511514fac033c253545c5ff240a"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/check_listing_budget.py",
+      "bytes": 13371,
+      "sha256": "07ec48ad4d07f0ea82e30ad4f81b3d0cc9ad2cba043cb5f262407cb2477e3f38"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/check_routes.py",
+      "bytes": 11603,
+      "sha256": "80356e920afff9612849536183699400be743c3a3c4347a326c959eae24b54ff"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/check_script_safety.py",
+      "bytes": 14111,
+      "sha256": "6804b6789cd990e3ef0d90c118fc8f0879f5155dd3dfc0965d16d5a6c2c86c0e"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/eval_retrieval.py",
+      "bytes": 10829,
+      "sha256": "5f4d82161bd09617f97b8ecf67b14134fe0720c1306b5575623e66b2cf4b0f6e"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/glm_blind_audit.py",
+      "bytes": 7780,
+      "sha256": "823e726acb68707bc88f28c455535afc97e4fe406c950fe8b6e15032c80b6c0a"
+    },
+    {
+      "path": ".agents/skills/skill-checkup/scripts/index.py",
+      "bytes": 9782,
+      "sha256": "425aac5d8b109d656f572e98c17567a3b1546b23d5a928f3f4e39cf1457eb6a2"
+    },
+    {
+      "path": ".agents/skills/video-editing-workflow/SKILL.md",
+      "bytes": 2576,
+      "sha256": "057295aa4bbaa8e746793dbb5a327b957e9329db8b1935e003376f93ba380119"
+    },
+    {
+      "path": ".agents/skills/whats-the-difference-short/SKILL.md",
+      "bytes": 1817,
+      "sha256": "e55d2c18f20ea546e545acf799ce64580d09cb0c91945411e5a3262e498855ec"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 664,
+      "sha256": "d1e0f0d49fb9ceea71c8a1792cf0c921d1fc660bc4891b5578826f8be6744c35"
+    },
+    {
+      "path": ".opencode/.gitignore",
+      "bytes": 63,
+      "sha256": "663a068e76d264d0bc6740f5450b6c4193c7b41ecf5e0dc222485b8a17404d95"
+    },
+    {
+      "path": ".opencode/agents/modo-deus.md",
+      "bytes": 5149,
+      "sha256": "88a270f300bb65e8809e46f07801303398bf4b70601d52d896c5b31dab94a9a9"
+    },
+    {
+      "path": ".opencode/package.json",
+      "bytes": 64,
+      "sha256": "be3e200fd28bc484069dcf5e8ee4ebc405f11049030c6130f1b2d437eb7a8683"
+    },
+    {
+      "path": ".opencode/plugins/graphify.js",
+      "bytes": 1432,
+      "sha256": "f44668d0be8abd803a3b12cac8857d7bd1671f5cddd9d24adde519dbc673cad1"
+    },
+    {
+      "path": ".opencode/plugins/instagram-gpu.js",
+      "bytes": 650,
+      "sha256": "b899f8514d1133b62f20dfe0642f423678ab5443bff4a9daf3f0528a936e4884"
+    },
+    {
+      "path": ".opencode/plugins/instagram-profile-audit.js",
+      "bytes": 2483,
+      "sha256": "d8424d516e8dfb5a47d81f03fb63f1c0381e21f5e9aa68afbd763e6118dd1f46"
+    },
+    {
+      "path": ".opencode/plugins/instagram-publisher.js",
+      "bytes": 21172,
+      "sha256": "8228c2bc39ffaebc0a884de9ae215372e649fbeb878ac3bfad043ab2a6ea7964"
+    },
+    {
+      "path": ".opencode/plugins/instagram-write-guard.js",
+      "bytes": 28332,
+      "sha256": "cdfc8f7b37f12d3e9db962e7fe028649f4a80d0bef76ffb659d9a48c6b47b099"
+    },
+    {
+      "path": ".opencode/plugins/quality-director.js",
+      "bytes": 4220,
+      "sha256": "78245c7b22ae56b34ff7ad373a854dda6072fa96fef4e46917c08eed61cfc2bb"
+    },
+    {
+      "path": ".opencode/skills/animated-chart/SKILL.md",
+      "bytes": 2894,
+      "sha256": "fff7d717e3c6692f463b4fd0b26af7770eb1224825ed7af914151276d0a5101c"
+    },
+    {
+      "path": ".opencode/skills/animation-performance/SKILL.md",
+      "bytes": 14491,
+      "sha256": "071c9d9473870315b6fc3c0a9c769cb63979b62fd6e67bb8f7a2111b3385ce5c"
+    },
+    {
+      "path": ".opencode/skills/animation-vocabulary/SKILL.md",
+      "bytes": 13606,
+      "sha256": "bd473dae686e85f6f82799aa7ef2aa11d357ddf3625de000fd8f28ea747562a4"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/SKILL.md",
+      "bytes": 14052,
+      "sha256": "6f79fe588be4c7b5f906b48f14e6481fd3b3f4b170dd17e3962c7a773d297b4c"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/references/aesthetic-directions.md",
+      "bytes": 11499,
+      "sha256": "d820657962b18cea973a0e223fd792a7a1e2212ee8d285c0319539767e83904e"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/references/ai-tells-catalog.md",
+      "bytes": 46725,
+      "sha256": "89874d9ed1dd2503c5770e091a862c7e7f37da9ee6dd229cfd5850a98ba4433a"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/references/design-md-template.md",
+      "bytes": 3783,
+      "sha256": "f4f00d108b3b3b3268c99969e2a904bc81c7bb8e398ba25efd21833fcfa069fb"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/scripts/detect.mjs",
+      "bytes": 44455,
+      "sha256": "4ccbb209732e461004ad134b7ccdebc17d4f5936dbce961731167a5ecb5a4bac"
+    },
+    {
+      "path": ".opencode/skills/avoid-ai-design/scripts/detect.test.mjs",
+      "bytes": 7797,
+      "sha256": "e116d9680cbe482b663e5915b2d16a59b7df9cdea1ea337ecb1f1b1c17a7afbe"
+    },
+    {
+      "path": ".opencode/skills/brand-intake/SKILL.md",
+      "bytes": 4817,
+      "sha256": "88e6363dfb329a4958986b8f1ad4e455696436dfc255a3077889713f52e08455"
+    },
+    {
+      "path": ".opencode/skills/break-ui/CATALOG.md",
+      "bytes": 8403,
+      "sha256": "437fb3047e3e1f8620583744e5e48298764a5ce8cc762b647f056ba22d8aa23c"
+    },
+    {
+      "path": ".opencode/skills/break-ui/SKILL.md",
+      "bytes": 14555,
+      "sha256": "c162e1a2f0ce720cc774b336089c7c4af01bb141bdca8dd7491b8727193ad11c"
+    },
+    {
+      "path": ".opencode/skills/choreograph/RECIPES.md",
+      "bytes": 10439,
+      "sha256": "75afb46df7d4ecffeb0c56eb33a4761ac1106e0887cf16ec86aaced75d4f6724"
+    },
+    {
+      "path": ".opencode/skills/choreograph/SKILL.md",
+      "bytes": 16129,
+      "sha256": "5de3f7d0fbdb411fb64027b3865fe2251b11c86ea2bd7a95549ecdeea70f2b09"
+    },
+    {
+      "path": ".opencode/skills/emil-design-eng/SKILL.md",
+      "bytes": 28185,
+      "sha256": "f66556037b4c416dd23a5176303f00337b945343cfa70fee1f4c774fa856c7a9"
+    },
+    {
+      "path": ".opencode/skills/gitnexus-code-impact/SKILL.md",
+      "bytes": 2373,
+      "sha256": "01eced2f54c722db90e662526061d24cdc0801a37d5915a9fe2fd8daaf7f5975"
+    },
+    {
+      "path": ".opencode/skills/higgsfield-editor-bridge/SKILL.md",
+      "bytes": 1169,
+      "sha256": "b7735a921e68c6f54e0821bb7fcfdee598d3ff9811816f290df61dc45f419484"
+    },
+    {
+      "path": ".opencode/skills/historical-expert/SKILL.md",
+      "bytes": 1513,
+      "sha256": "8d9272a2c7583391a2e26120de407fe3c5c54c76a1ebdddead34c262b6d97cad"
+    },
+    {
+      "path": ".opencode/skills/impeccable/SKILL.md",
+      "bytes": 10741,
+      "sha256": "cdfcbabb4d6fbe0af81aa1653f56bc310484a8b01b081689b13c75580b9af6b1"
+    },
+    {
+      "path": ".opencode/skills/impeccable/agents/impeccable_asset_producer.toml",
+      "bytes": 10023,
+      "sha256": "3a0de92c482aba8b7b35f86c6bb0c8b5c1e24af2b26d6b0fe580bc901a8add1d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/agents/impeccable_documenter.toml",
+      "bytes": 3270,
+      "sha256": "d2b3e788ab96a1b7cb7a260c88dbd2fa4387d89f3dea07d835ef1707433e55d3"
+    },
+    {
+      "path": ".opencode/skills/impeccable/agents/impeccable_finish_reviewer.toml",
+      "bytes": 13834,
+      "sha256": "cff9a0aa775fa127042b5d8407978f019f1367cceb0921c220de0e84314e90d6"
+    },
+    {
+      "path": ".opencode/skills/impeccable/agents/impeccable_manual_edit_applier.toml",
+      "bytes": 7113,
+      "sha256": "a9c86eedb0cb3381400b87f9bebd0319215247c6446c9f78a702800726b4f63d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/agents/openai.yaml",
+      "bytes": 238,
+      "sha256": "aa8140ebe247f42686ee1e0b6f0ca4c391493703bfd499613e4a3d4685691619"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/adapt.md",
+      "bytes": 10619,
+      "sha256": "531f177d9b246960f6ea63d64f16dc73ee76899c2dcba9dd09236e1cf78f2ab6"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/adapt.native.md",
+      "bytes": 3968,
+      "sha256": "0abc89f44b1416f173cd2576b6a5ed5e54d4030348e8f5142017a29a7e19e688"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/android.md",
+      "bytes": 4139,
+      "sha256": "a3757686a0c2778ccbc0ea321f4460368f26bc0229d2b24c3c694a42ce40b1a0"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/animate.md",
+      "bytes": 5325,
+      "sha256": "9d6d186e5da3d4ebffb333f9b58209d847705d11d9b4e761bfb2529bf47b0d3a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/audit.md",
+      "bytes": 8009,
+      "sha256": "88c92aa1a257eedd39d81477558199ee0f6b640d13d0cfbca0f90f459181d3a8"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/audit.native.md",
+      "bytes": 8496,
+      "sha256": "55299f6059ce8ecf01874b2dd4bb3a3f21d39f459e5ee6e8e786b2343494db5c"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/bolder.md",
+      "bytes": 3597,
+      "sha256": "51169d458d53e1fdb1bb682ab96c9817601e2bc1417c0a9f27aa48ff87249d6b"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/clarify.md",
+      "bytes": 4684,
+      "sha256": "cbbf5647e0e14f6b10c7fd43392ecc1d6924acfbf43994d1d147047d73497f42"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/colorize.md",
+      "bytes": 4623,
+      "sha256": "a3cd4b18154e8c06edfbf7e7316077e8dd500d9777ea723c09fc02fe32b3fba2"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/craft-floor.md",
+      "bytes": 5550,
+      "sha256": "a609728fd438209860711ed3b8c9efc2cc28c4245164ae67ca98a379097f9c33"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/craft.md",
+      "bytes": 560,
+      "sha256": "39b5fefbf524ad156a4cab2fbc5b65f2358c213a30d59a4c7510704e8d9dd56b"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/critique.md",
+      "bytes": 46538,
+      "sha256": "789d4952f93ebda4beee9bdaa12d84159461e0f4349b6ff29d40e78beb86c453"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/delight.md",
+      "bytes": 3786,
+      "sha256": "14a5700220c44c9addf2bca02036969b4cede7ea51fd98fe290892942bb89d2c"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/distill.md",
+      "bytes": 5828,
+      "sha256": "591858c868281bfa65f76e8c8eb60bd32d614a22065c5a490a0dd82bb46c271d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/doctor.md",
+      "bytes": 5517,
+      "sha256": "f31ae2079d7450ee7e6e00e47f23a6e317247b5bb1715f1b7f2d2ed5d6e2da4b"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/document.md",
+      "bytes": 27937,
+      "sha256": "b222f790f1809a5da91b82a7e4cd5b14402b3d9bb58a6fc83bcefa9efc768136"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/extract.md",
+      "bytes": 3502,
+      "sha256": "3b0b82a3f0c5f8d60b300503d5b75dd4785ebaf1c73ffe88a1c0dd4093e4f1a8"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/harden.md",
+      "bytes": 8875,
+      "sha256": "8e642328f112dba44fef18fff48350bd83c2df3f7affb2b9a0bee1b4ae38e85a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/hooks.md",
+      "bytes": 13238,
+      "sha256": "c3ef8969bb456a899a1a3e3b0912326cc53e59bcc3ec09cb73b4af5ca1ce0af7"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/init.md",
+      "bytes": 11622,
+      "sha256": "6ca223bbc41d05d52e72ef692358cd38e0ab74b866adaf3209d832f27a01d2a0"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/ios.md",
+      "bytes": 3863,
+      "sha256": "60ada207bfb419ad0a570b8319c29403713ca2ad3fb9a2f5bdffa62ab25611bb"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/layout.md",
+      "bytes": 5243,
+      "sha256": "35f1ead201a9b00656aa923105aa130490a2c0f0ce7e8ba9182daa8592779ad9"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/live-setup.md",
+      "bytes": 7524,
+      "sha256": "b9ac84f506265e3306462721bb8665b17e24bc5b1e7e63ac144ec94db8623ebd"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/live.md",
+      "bytes": 36166,
+      "sha256": "5041934d48ead39bf2abb04c01cee7d091fe3df204d671710bbbbf3ef46c207d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/new-work.md",
+      "bytes": 44243,
+      "sha256": "6f195dbf5a88c9bc23bede089b6f814e714c27cc3a2b845ac95aa1afee00058a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/onboard.md",
+      "bytes": 7974,
+      "sha256": "b149f0c1dc513cef5dd925d6a524d5df084f92e283d3e77718dde6e8e9572c21"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/operate.md",
+      "bytes": 4206,
+      "sha256": "c4b169ab7932329c833750971c53bc129d0385e16d0219b31f002792fce939e8"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/optimize.md",
+      "bytes": 7872,
+      "sha256": "226cba5d157bf282a7e3e2d6e674f4a473c44a95ba25503e42a606f53884f917"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/overdrive.md",
+      "bytes": 9305,
+      "sha256": "813d1f7570f3e02e97bf699e1e77447fad4210bb908c3ec9652c241bcbf8c94d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/polish.md",
+      "bytes": 5689,
+      "sha256": "5d602fca9f6ecaf8200871ead537d6ef5d6178f5d3b18a63fddf778d38ce608f"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/quieter.md",
+      "bytes": 5051,
+      "sha256": "7ab134c0b7bed0a174c77dd44142e8f2dc94bbd18eb8d31d4f9eb669b25c3476"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/routing.md",
+      "bytes": 2933,
+      "sha256": "936c4957d8e6380a913d83ee7c6aba6cc50da78faebcfabb39a512e275305f80"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/shape.md",
+      "bytes": 3606,
+      "sha256": "51960b514f8437baf12484dd5be824e0c2d0ee8802e29e7f511e431493a6c417"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/typeset.md",
+      "bytes": 5334,
+      "sha256": "4e64fcb48f8718436f6825d34e267685378e6050cc71ca383eff5c5b06d7d3d3"
+    },
+    {
+      "path": ".opencode/skills/impeccable/reference/visualize.md",
+      "bytes": 16700,
+      "sha256": "c0016d559c35f3fde84dc4f7bc6557bc9123c4227511c4e700bfcf13861d7601"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/command-metadata.json",
+      "bytes": 8028,
+      "sha256": "f87af3eb3432d274d86080968d08cf299652ab0f66511cef9d867777d978de7a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/concept-seed.mjs",
+      "bytes": 40387,
+      "sha256": "9c4a5818987d4f5ab2fb74b76e9de795d2102df5e52411bde009f1c5995b6472"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/context-signals.mjs",
+      "bytes": 14358,
+      "sha256": "7c446d5ec6907d15beef13f9dc130fe42216f10a8da518efb80052fef7f2e44a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/context.mjs",
+      "bytes": 66702,
+      "sha256": "42858ea77ea8be6367ad33b2ea81a1bb825cf1618cc23638ef57cd57aed24aa2"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/critique-storage.mjs",
+      "bytes": 8707,
+      "sha256": "c75a999938056bfbf994bf9a2b86e1a30f1f27811f684226db7f079d6fffa828"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/detect-csp.mjs",
+      "bytes": 6959,
+      "sha256": "459f264db8c7012a036a09f15b968183e12f6355531b2f89c05e8a8252fb69f6"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/detect.mjs",
+      "bytes": 641,
+      "sha256": "6a4a5bc7c01dfc3d85612f427762756e974040c82a48084d1aac9d61009c8bef"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/doctor.mjs",
+      "bytes": 11906,
+      "sha256": "aa5bb96a970465d6e3bfb0f2c5b9449e140ae8e6e99249b0f238a97e442b671a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/embed-prompt.mjs",
+      "bytes": 8018,
+      "sha256": "7912d673a8852e08436188f55a05053a4d7105adb2c3ff05eeb8d6ff183f0e21"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/generate-image.mjs",
+      "bytes": 11739,
+      "sha256": "c80c422f6649baa74543ce61b8deab17cf43aa755e6bd818d69c995469bb2944"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/hook-admin.mjs",
+      "bytes": 32423,
+      "sha256": "9edd6f832431a071f05c2765335d0244fa2e006bf1d9504fe8cbeb76dfcdc796"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/hook-lib.mjs",
+      "bytes": 102819,
+      "sha256": "e0a436c56e7544151a2b0648fac1a57cfdd5f38dbc21fc64ea7a36cd88c253e3"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/hook.mjs",
+      "bytes": 2888,
+      "sha256": "63884d3f3949ba4e31bf70194b7710b4b5239e540ca83f75fdd378b87986f786"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-accept.mjs",
+      "bytes": 36812,
+      "sha256": "de22cb671273213636d0d48ad0b3c35c63cf738595973bbdd6a81abf82144876"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-browser-dom.js",
+      "bytes": 4396,
+      "sha256": "9cc250d69ef3f96bcb0421fac9d58262f8542e090ad27703cc10c8e00ca2d5c2"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-browser-session.js",
+      "bytes": 3420,
+      "sha256": "f2edd9672e25e661043835bbe70c123f1c0ca5c62d1839f5e27d0dcdcc134f66"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-browser.js",
+      "bytes": 513386,
+      "sha256": "644f0c5651239c4c5732500abcb07e1589556cd8016c3f10c68e5ec3641b85e0"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-commit-manual-edits.mjs",
+      "bytes": 42052,
+      "sha256": "8b4dce8e5728836b2c06726ac16f47a26488439ccd9b028f08fb7d024268e8b6"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-complete.mjs",
+      "bytes": 4915,
+      "sha256": "33bba10c3187d31f85fdfa13b68f717da57be85d61272a419e961b2d3fbff219"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-copy-edit-agent.mjs",
+      "bytes": 34253,
+      "sha256": "654b4a52aaaf849c83fcbcb7d2ef4f3f23e01907fd5a67c1398fc9040a1a7e87"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-discard-manual-edits.mjs",
+      "bytes": 1738,
+      "sha256": "92ed88fc36050a5f3570ed47417d510dc5e82b99e4a31a85b3f8a1d35523c53c"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-inject.mjs",
+      "bytes": 19039,
+      "sha256": "774aa28e481011e424b91dfb2cd4cccbde8b0d56d99185862afae8aa30a0463f"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-insert.mjs",
+      "bytes": 10373,
+      "sha256": "cc35dd47807e512d6b5384f6d069a1bb5e63a82b9c659534cf273b495b6ae64c"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-manual-edit-evidence.mjs",
+      "bytes": 12225,
+      "sha256": "034bcece16dbead2e8eda326670e310f357ca8cb3f3fed9156d1cb3834cf4d8a"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-poll.mjs",
+      "bytes": 16597,
+      "sha256": "acc1cb62347101663f77c039aff85b2969f041b64e745d209db3f9a88123a15b"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-resume.mjs",
+      "bytes": 6255,
+      "sha256": "bb5a628729a450738f46b27a09164de3a338309b2e10139a8dada8b9bb508eac"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-server.mjs",
+      "bytes": 70568,
+      "sha256": "c81bf191a4ffe7598271d00d948c08ecadf9d7ea55b049baf84db72cb6bcc174"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-status.mjs",
+      "bytes": 2697,
+      "sha256": "475130bb9be4d1636fe73b71642c8d06a7d08cdfafa59233a74461f7fa5347de"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-target.mjs",
+      "bytes": 964,
+      "sha256": "7ce53e2936908064898f4942eeb259ee59307470c944e0150356b8bc4dc3dda9"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live-wrap.mjs",
+      "bytes": 40043,
+      "sha256": "45617e26436f470d5cde7654c12317cfd26209a209fc710074ad72e23af438d5"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/live.mjs",
+      "bytes": 13982,
+      "sha256": "4c3434aff3956ec2a779d48d08d15321e57eb3f5925ad80b801d1989b92f0e1d"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/modern-screenshot.umd.js",
+      "bytes": 29304,
+      "sha256": "9b0dc34415466edac6e6802574006608b5e5c0da9fdcb7b2651dbd1ea06713a6"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/palette.mjs",
+      "bytes": 57415,
+      "sha256": "1749d3c77c9ebd2ae6f98664953c4a3d4bc7b54d4cd8bfe4ee1f13076848ac29"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/pin.mjs",
+      "bytes": 6897,
+      "sha256": "637d8f554745d9623042ed4261e1ebbaafdceb6ac40f8c900d9d5cb3331d4f8e"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/serve-question.mjs",
+      "bytes": 123250,
+      "sha256": "87f8058b044e386276f59dc2d794787e6d9fd10dad1f753c5855926b8a5ded94"
+    },
+    {
+      "path": ".opencode/skills/impeccable/scripts/surface-brief.mjs",
+      "bytes": 2591,
+      "sha256": "9eb83e4f08fa83ede734fb8294d504c8856b73ccc8e8c4ac9dc6f965b047c3bf"
+    },
+    {
+      "path": ".opencode/skills/instagram-caption-editor/SKILL.md",
+      "bytes": 1543,
+      "sha256": "73c4fb8634d84120f013bbfa84f9518fbc4e0f964457a0f9d34e72d999e3dd26"
+    },
+    {
+      "path": ".opencode/skills/instagram-destaques/SKILL.md",
+      "bytes": 3346,
+      "sha256": "72cd782fc5b6c605b01bef6454887519c9cb762432d04f720054efb209b09208"
+    },
+    {
+      "path": ".opencode/skills/instagram-director/SKILL.md",
+      "bytes": 1301,
+      "sha256": "5e352bbb0bcd39b67766698a90dabd8e7395ae87a74e940e23c25887f22a01cd"
+    },
+    {
+      "path": ".opencode/skills/instagram-processo-verificado/SKILL.md",
+      "bytes": 623,
+      "sha256": "b97d26a8920c7dbefa1a6237daaea29aeb6524d7a2225700031c910ea53a0adc"
+    },
+    {
+      "path": ".opencode/skills/loop-cover/SKILL.md",
+      "bytes": 3811,
+      "sha256": "567f347ce58ec9cc4e270ea38e16c64c1fc8bcd77b0452831cb3bf4347a3590a"
+    },
+    {
+      "path": ".opencode/skills/motion-brief-writer/SKILL.md",
+      "bytes": 4622,
+      "sha256": "310fc2430d036fad3a73d9c560cc6e00a5f5170bcc188699b03b858888755edc"
+    },
+    {
+      "path": ".opencode/skills/motion-effects/SKILL.md",
+      "bytes": 8442,
+      "sha256": "fb10230815a80bbac4c4aa031096e0f2afea42a5558f46f3d73955490104831f"
+    },
+    {
+      "path": ".opencode/skills/motion-effects/references/effects.md",
+      "bytes": 17380,
+      "sha256": "f8ed09ef0aa3d7151647553f4861b2bdc0dc8e6ba620c2415bb436357d515648"
+    },
+    {
+      "path": ".opencode/skills/ontology-define/SKILL.md",
+      "bytes": 2663,
+      "sha256": "2a948baf7c1df694e002de9eff30641c723d73393d29108ab472b467cfec174d"
+    },
+    {
+      "path": ".opencode/skills/playwright-skill/API_REFERENCE.md",
+      "bytes": 17112,
+      "sha256": "6669733902c97e252c4ae4a1832dfdcb46e91a1389fc84e1d5afe2ac7f63061a"
+    },
+    {
+      "path": ".opencode/skills/playwright-skill/SKILL.md",
+      "bytes": 7956,
+      "sha256": "7d1d8ca6cc7a527c3876e56f8bdf9a09210682f2656d4ba3854b11834c427a64"
+    },
+    {
+      "path": ".opencode/skills/playwright-skill/package.json",
+      "bytes": 726,
+      "sha256": "6af1e007dda8cc673af382081b38eaca25de3c8b05235bbe84fd1b543e7c7918"
+    },
+    {
+      "path": ".opencode/skills/playwright-skill/run.js",
+      "bytes": 3781,
+      "sha256": "eee1c954d34e068ddee3573d9869294dda3c9c381904d20471027b27f3912443"
+    },
+    {
+      "path": ".opencode/skills/reel-export/SKILL.md",
+      "bytes": 3374,
+      "sha256": "03f9224ae9b0c86735337d2175e07f4f9ae4b39417f58ac53d296983cf156906"
+    },
+    {
+      "path": ".opencode/skills/reference-to-motion/SKILL.md",
+      "bytes": 3448,
+      "sha256": "9d434982e9965a1ce9d3b7025c68042065a6b87f0076f8d6656b233ece650cb5"
+    },
+    {
+      "path": ".opencode/skills/review-animations/SKILL.md",
+      "bytes": 8611,
+      "sha256": "7daf5ce2a323ab8b1e846e3071d39732c1a32004341ca9ca6589d58757c978d2"
+    },
+    {
+      "path": ".opencode/skills/review-animations/STANDARDS.md",
+      "bytes": 10151,
+      "sha256": "493e5a246d9cc87ce778f1e45c9fc88bae420bfd426f1a476b5e9401d31e4e39"
+    },
+    {
+      "path": ".opencode/skills/title-sequence-3d/SKILL.md",
+      "bytes": 3800,
+      "sha256": "e5b748b3a510f380e3b2100a4bf42d85dbcbc8642e077e1e5e9fc1360a3531a4"
+    },
+    {
+      "path": ".opencode/skills/vision-qa-local/SKILL.md",
+      "bytes": 2666,
+      "sha256": "da1e8117fa36001a219efa27d5c5b1edeb4c7c3e862fc7962c0f5dc31dc5b53c"
+    },
+    {
+      "path": ".opencode/skills/vision-qa-local/scripts/dominant_colors.py",
+      "bytes": 10213,
+      "sha256": "a78474b9df93320a7b8fdf8ed2d345fd60038182059ee92ca6101b9c93cb7041"
+    },
+    {
+      "path": ".opencode/skills/vision-qa-local/scripts/ocr_local.py",
+      "bytes": 1948,
+      "sha256": "38c634e6605c234478d138188a4cca5ad195920840fffbe2a234afeddeec1e33"
+    },
+    {
+      "path": ".opencode/skills/vision-qa-local/scripts/pixel_diff.py",
+      "bytes": 3978,
+      "sha256": "70e04fea9bf452f35d12bed0c19c7e2be46934a5423caa778b24da82b78f2251"
+    },
+    {
+      "path": ".opencode/skills/visual-reference-adapter/SKILL.md",
+      "bytes": 8013,
+      "sha256": "212783d9e978034406e68f2651dd47f84bc6f7e265ac614be060489bfa89e1c1"
+    },
+    {
+      "path": ".opencode/skills/visual-regression-testing/SKILL.md",
+      "bytes": 3364,
+      "sha256": "731c9be391fbf97ae5d7ebfd488c1433c698f773c72a160743ff88e22a93414a"
+    },
+    {
+      "path": ".opencode/skills/vox-explainer/SKILL.md",
+      "bytes": 6044,
+      "sha256": "6c17b8f9360faa4b2f9816edf939cc9c3a58c7eda4b4da6c3c4a9969e8f7c1fb"
+    },
+    {
+      "path": "00-regras/CONTROLE-DE-FONTES-E-APROVACAO.md",
+      "bytes": 2674,
+      "sha256": "eb7f9e2cee5563b6bb3bc899a09ebb20ebea72c02942a05fa8b9d06e1a1995cd"
+    },
+    {
+      "path": "00-regras/FIDELIDADE-REFERENCIA-EXECUCAO.md",
+      "bytes": 1460,
+      "sha256": "5c1b2c8632da3c933b3e5c46ef66ccf7021c12c2e074aa45be8f68d879151c99"
+    },
+    {
+      "path": "00-regras/FIDELIDADE-TESTES.json",
+      "bytes": 872,
+      "sha256": "642f433884be5a92b2b5033f2f4dc25f6958afc8e10adc0a8e63cb98e4170ce6"
+    },
+    {
+      "path": "00-regras/FLUXO-CARROSSEL-REPRODUTIVEL.md",
+      "bytes": 3164,
+      "sha256": "677a7ba12d323481b5a94ee6c89c2396ef8e61cc02c8cc67bf5a0a530daa3f06"
+    },
+    {
+      "path": "00-regras/FLUXO-EDITORIAL-LEGENDA.md",
+      "bytes": 1047,
+      "sha256": "42f1da0d4af7242a9edbff3538d3a029aeff876e1d7d818c5380618b4dac1abd"
+    },
+    {
+      "path": "00-regras/FLUXO-PERGUNTAS-CARROSSEL-20261121.md",
+      "bytes": 712,
+      "sha256": "001dac196de04ea641d30655f3b1b9a41bc07f6c62d1a6d0b3a3d9dc4cb8facf"
+    },
+    {
+      "path": "00-regras/GEOMETRIA-FIXA-SETA-ASSINATURA.md",
+      "bytes": 1517,
+      "sha256": "8ef6f59b7880d426ab471fa6aa55ff4ff6d1551cf8e9add4b91720621ede1416"
+    },
+    {
+      "path": "00-regras/HIGGSFIELD-INTEGRACAO-20261117.md",
+      "bytes": 1873,
+      "sha256": "726c60025b30ada41f889177c2871934aae5b52c43e190c6c3fe23e301885d0b"
+    },
+    {
+      "path": "00-regras/LAST30DAYS-USO-INSTAGRAM.md",
+      "bytes": 3313,
+      "sha256": "19b0e7db7411dd81ceaf88d35f249a0aada3b4e442c0cc256619a666c528ce9d"
+    },
+    {
+      "path": "00-regras/LEGENDA-OBRIGATORIA-CARROSSEL.md",
+      "bytes": 1006,
+      "sha256": "74b3447abe5f5e86a019922f3e8c4c4bdbba0c7e5185a8048a61af8f2312b9ce"
+    },
+    {
+      "path": "00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md",
+      "bytes": 6375,
+      "sha256": "6ef50ac337c42f4125d707c90f6812dbd43fed5d89c00badb7e57919bf432eb2"
+    },
+    {
+      "path": "00-regras/PADRAO-OFICIAL-SETA-ASSINATURA-20261121.md",
+      "bytes": 4517,
+      "sha256": "54e478a9bb5ed273ae9ec4e1f1f2c40c9a9429be4a082e2713204662e10b55a2"
+    },
+    {
+      "path": "00-regras/PADRAO-VISUAL-APROVADO-SESSAO-20261120.md",
+      "bytes": 3274,
+      "sha256": "7e4a2eea75ecb2919b802615c09b7d7620de921508edc0743857d52bdfcd8a2d"
+    },
+    {
+      "path": "00-regras/PERFIL-4X5-GRADE-1X1.md",
+      "bytes": 2582,
+      "sha256": "745f7be8b192de129a89b15f91df232613e1470dec5085fb10b6546c6182a719"
+    },
+    {
+      "path": "00-regras/PLAYWRIGHT-APPIUM-ESCOPO.md",
+      "bytes": 3541,
+      "sha256": "0662c33e13e38ef01b93b6dcaba5c23534d3b7890d48621073f32ab5736a0284"
+    },
+    {
+      "path": "00-regras/RASCUNHOS-RETOMAVEIS.json",
+      "bytes": 54,
+      "sha256": "de40d62ea1ac7492347aa83c71f14e2368ef3d3a927dfcd9843c659a2230f459"
+    },
+    {
+      "path": "00-regras/REVISAO-TEXTUAL-SEMANTICA-TAXONOMIA.md",
+      "bytes": 1216,
+      "sha256": "ba9102a29df4f960b65aa5a5f4bd7cfb4a7fb07b52847618941c6625f9aad839"
+    },
+    {
+      "path": "02-scripts/agendar_post_aprovado.py",
+      "bytes": 7362,
+      "sha256": "71d0080f0d716a1e9c29f3c4aaeba35c6153d2932fe75969f83a2308981d1b03"
+    },
+    {
+      "path": "02-scripts/atualizar_grafo_instagram.ps1",
+      "bytes": 771,
+      "sha256": "ae2a8094de045a8a3f63bb5e9cac7a95a44607596528b12d67c0c8216699662f"
+    },
+    {
+      "path": "02-scripts/atualizar_grafo_instagram.py",
+      "bytes": 2870,
+      "sha256": "b7322825666c1750979cca97b4d53c168552304fe9b7e51a5be7e186acbf02ce"
+    },
+    {
+      "path": "02-scripts/autorizacao_por_pacote.py",
+      "bytes": 5863,
+      "sha256": "bf8813120b3d3f5cd3cc046f08fab7a063fb7130c760ce8087505799c71bf0da"
+    },
+    {
+      "path": "02-scripts/avaliar_decisao_carrossel.py",
+      "bytes": 1421,
+      "sha256": "0908301a91e90a196fe06b9cd61815862070c218d3c3306c619cfd0073de3e43"
+    },
+    {
+      "path": "02-scripts/comparar_referencia.py",
+      "bytes": 1910,
+      "sha256": "adef56b8cf2c98d75c0ddbd58b614018cf3cd72c863270ffe275c3e9cea805d2"
+    },
+    {
+      "path": "02-scripts/consultar_fontes_windows.ps1",
+      "bytes": 1841,
+      "sha256": "e32675e08e78121932aad441c07108d87f5d4f65b83cc103f8b5a2b0956bf640"
+    },
+    {
+      "path": "02-scripts/contar_skills.py",
+      "bytes": 636,
+      "sha256": "cc7fd795153cad7ae1d01b8ecfa8b69a60eedd95bd90401d79c620180d160c81"
+    },
+    {
+      "path": "02-scripts/diretor_instagram.py",
+      "bytes": 6481,
+      "sha256": "fb62c081c2d0a1355f0e6c636c077522b08aea26d6783b4a58f56ad9b2e187a3"
+    },
+    {
+      "path": "02-scripts/editar-bio.cjs",
+      "bytes": 2361,
+      "sha256": "91196d822491ec0823817c77edcd247aefaaf046486b356c2ca4b0f40a69f57a"
+    },
+    {
+      "path": "02-scripts/entrar-instagram.cjs",
+      "bytes": 732,
+      "sha256": "eab1449caf25119b0cdbecde3468775d5e395b20dfdaaaac51544eeca0b53564"
+    },
+    {
+      "path": "02-scripts/fila-publicacao.py",
+      "bytes": 7047,
+      "sha256": "2ad5b6b8f05c7409465d3272209b4d487d00c4f2143757cc40286cba23b519b4"
+    },
+    {
+      "path": "02-scripts/higgsfield_editor.py",
+      "bytes": 927,
+      "sha256": "e9f4a354aa781a0f628f99577d7e293f6b13a537068dd02d0cc7a5e9ca14bcb6"
+    },
+    {
+      "path": "02-scripts/instagram_estudio.py",
+      "bytes": 3335,
+      "sha256": "3913c3de1cee1d5b9e1b29a3fa2295be7b31db569074d3a0b6fde46a5559f0c4"
+    },
+    {
+      "path": "02-scripts/limpeza_segura.py",
+      "bytes": 5343,
+      "sha256": "18c3f61a1f8ad72d9ef305c912bb4fd9242b0ce64178143155ba0b508ba15247"
+    },
+    {
+      "path": "02-scripts/mapear_projeto_instagram.py",
+      "bytes": 4855,
+      "sha256": "9a665c1977655113b28133ef2029a90e6774fd4c90fd68289ddf68e877c2a70c"
+    },
+    {
+      "path": "02-scripts/postar-agora.py",
+      "bytes": 9369,
+      "sha256": "a01dca72bd65fd1c8ffe6a773e25050f91ecba18467236f91d66b9c76629410a"
+    },
+    {
+      "path": "02-scripts/preparar-post.py",
+      "bytes": 2154,
+      "sha256": "fd15eed55af97c58e14797f4a9e156abde818ef40bf080f967c637947f64e259"
+    },
+    {
+      "path": "02-scripts/publicar-seguro.cjs",
+      "bytes": 7718,
+      "sha256": "145dacef594967cb08b77e8ae71e8826e33bab5ce25002abe803a6bb26601582"
+    },
+    {
+      "path": "02-scripts/qa_carrossel.py",
+      "bytes": 5687,
+      "sha256": "ed532497af717f5b421ec1b510726b4430fe5e2afd85b46b0eaf8e0f4a0b5e61"
+    },
+    {
+      "path": "02-scripts/qa_texto_taxonomia.py",
+      "bytes": 7624,
+      "sha256": "6040bbe0217a0031743a6843b7483015951ba368c6cb1c66c0862e3a2523e30d"
+    },
+    {
+      "path": "02-scripts/receber-video-editor.py",
+      "bytes": 5820,
+      "sha256": "caffdaadc0d8c90f41702bbaec46f48e107f4f3ababaca1a11e714544e576ecd"
+    },
+    {
+      "path": "02-scripts/render.cjs",
+      "bytes": 1195,
+      "sha256": "289626b537f9de20ac55a31f23f7a8b49c9f809c1d35c4913e0dcbed5024986c"
+    },
+    {
+      "path": "02-scripts/server.cjs",
+      "bytes": 561,
+      "sha256": "fde1ac73d291cd223d0d27be50dd3767c772985cb42308c3ddb813c609adb85a"
+    },
+    {
+      "path": "02-scripts/status-agendamento.py",
+      "bytes": 4903,
+      "sha256": "8276682bfbc52392a4f39b281547c20ce40efaf93d33f0cc0c703fe709060b72"
+    },
+    {
+      "path": "02-scripts/test-quality-director.mjs",
+      "bytes": 1003,
+      "sha256": "bd80ea8d5ef2bd4bccf1bb8e57bf6143826afc6c9cae4a3b01c9f1995b774c86"
+    },
+    {
+      "path": "02-scripts/usar_video_referencia.py",
+      "bytes": 1545,
+      "sha256": "c70008a16631af0958d1f17cd66e4cf85976cd08f2f10e1efe86447b6ec1526e"
+    },
+    {
+      "path": "02-scripts/validar_fidelidade.py",
+      "bytes": 1530,
+      "sha256": "795213c1daf082ac4772ec08a6b878573d75c8f031f5ebc3f82f16d93bbd97eb"
+    },
+    {
+      "path": "02-scripts/validar_layout_fixo.py",
+      "bytes": 2471,
+      "sha256": "2dcb698922b810d6a3ea666d3769037fcdee7d03d8db7ec2c9ead4634c817413"
+    },
+    {
+      "path": "02-scripts/validar_layout_referencia.py",
+      "bytes": 4342,
+      "sha256": "2f0d9e3f13270be3f1fed54b43f3962f0fc3889e6e081ad51c6103872fec788e"
+    },
+    {
+      "path": "02-scripts/validar_legenda_editorial.py",
+      "bytes": 2352,
+      "sha256": "8f80a6a6498cf878eb1901d45e3fa5be002564485fc4c996607e53a1be01e3e6"
+    },
+    {
+      "path": "02-scripts/validar_pacote_publicacao.py",
+      "bytes": 3260,
+      "sha256": "5511513234f35d720d6840828bad5fbeb14748f7482f3cd2b0917336fc952401"
+    },
+    {
+      "path": "02-scripts/validar_padrao_carrossel.py",
+      "bytes": 9121,
+      "sha256": "5c6581d5c84016d6b89ad1f88ed2b5c3eca41ac761d05566db80c1b00837f712"
+    },
+    {
+      "path": "02-scripts/validar_tipografia_carrossel.py",
+      "bytes": 4325,
+      "sha256": "4c4af04484ae0a3923481457f62d1c3b5ebbdac8342205ea710b7b8e88ae4c8e"
+    },
+    {
+      "path": "02-scripts/verificar-perfil.cjs",
+      "bytes": 1074,
+      "sha256": "37014da40387c8e6413157e83af694a0a716d879bd5b3d7c4d3321e157d69553"
+    },
+    {
+      "path": "02-scripts/verificar-post.cjs",
+      "bytes": 1253,
+      "sha256": "e1b1757ad26b0db9e77f69bced733c908ab2353eddebe1221a7150e5f6229569"
+    },
+    {
+      "path": "02-scripts/verificar_execucao_autorizada.py",
+      "bytes": 1452,
+      "sha256": "f53160fb3c4831d17cc4be9e4efb6a377ac2f1cf8c6f46c799db5b487e677894"
+    },
+    {
+      "path": "02-scripts/verificar_resposta_interativa.py",
+      "bytes": 4403,
+      "sha256": "6429fbce61b5c713212613d43b8ea068b8661b43e31baea66e300c98034293ca"
+    },
+    {
+      "path": "04-skills/SKILL-CHECKUP-LOCATION.md",
+      "bytes": 908,
+      "sha256": "886c520a794f3dfde2cf91ad6e040dc0929fd9166b7970c0809fb30a4943c2c9"
+    },
+    {
+      "path": "04-skills/carrossel/SKILL.md",
+      "bytes": 6835,
+      "sha256": "c36b9b74d9475a88a105c23ff25e2026c7ef386e0e32ef5618318258a18110a6"
+    },
+    {
+      "path": "04-skills/carrossel/audit-restructure-20261110.py",
+      "bytes": 2814,
+      "sha256": "c47f18e2471f8fbbd38ace5799c264982df29e25ae3f4e6732514796529e24ff"
+    },
+    {
+      "path": "04-skills/carrossel/references/qa-obrigatorio.md",
+      "bytes": 2527,
+      "sha256": "e6e5c60bd1b6dbfed76e54b2eecdeb8bf72c62f3f679d97f261d0d1326cd702d"
+    },
+    {
+      "path": "04-skills/carrossel/references/workflow-original.md",
+      "bytes": 6825,
+      "sha256": "454a5400084b7ec075ba68daef5ae64d0529939e72e867ee0bfd54531636969a"
+    },
+    {
+      "path": "04-skills/carrossel/scripts/exportar.mjs",
+      "bytes": 15795,
+      "sha256": "3090fe6bc55a0a3039a0b678d46c44f893615ef052d9783cf025e902fb76f42b"
+    },
+    {
+      "path": "04-skills/carrossel/templates/carrossel.html",
+      "bytes": 6331,
+      "sha256": "8f7f12b92df804d12e909562da54cc66ae4ce1760a7a3a72580790af45f2aa92"
+    },
+    {
+      "path": "04-skills/comentarios/SKILL.md",
+      "bytes": 7202,
+      "sha256": "de0bffff3bcd59aae2284c45a5ca6b27ad9c104a0c9d897cea734063edec57c7"
+    },
+    {
+      "path": "04-skills/humanizer/.claude-plugin/marketplace.json",
+      "bytes": 542,
+      "sha256": "169290146b1c70606ef00f4049c64d256f507f6cd453d238af9fb4532163d244"
+    },
+    {
+      "path": "04-skills/humanizer/.claude-plugin/plugin.json",
+      "bytes": 535,
+      "sha256": "58666780454ce0999e6df3adb3ffbdb75faa133d7f9383c8d626ab90db830c9f"
+    },
+    {
+      "path": "04-skills/humanizer/.github/workflows/validate.yml",
+      "bytes": 844,
+      "sha256": "067f32a16cd1fa9038c9214650992a6910aa0b04bca8f1e16d5f43b330c3ee83"
+    },
+    {
+      "path": "04-skills/humanizer/AGENTS.md",
+      "bytes": 2955,
+      "sha256": "68222b8550790d3eb54c6361b79576d7c555af8f4defc2b3d97ed5481354181a"
+    },
+    {
+      "path": "04-skills/humanizer/README.md",
+      "bytes": 16349,
+      "sha256": "2593a9b2cf591d592116cc3ed152dee7a5bda68b5e7623c7f8d699531a677c08"
+    },
+    {
+      "path": "04-skills/humanizer/SKILL.md",
+      "bytes": 29102,
+      "sha256": "c39879e29a7fe8a9e4bcd0ef66339589ba0e85e3893521ecb0d96a277761467c"
+    },
+    {
+      "path": "04-skills/humanizer/agents/openai.yaml",
+      "bytes": 205,
+      "sha256": "d9ca04edb13bf6d7096e3b9127615e010d0c864652db2b6a080252fe5d00a08f"
+    },
+    {
+      "path": "04-skills/humanizer/scripts/validate-package.py",
+      "bytes": 3144,
+      "sha256": "e82129d750bbcb99689baa86d402de08e008588be095b79a6cb0c27e656cac1b"
+    },
+    {
+      "path": "04-skills/ig-audit/SKILL.md",
+      "bytes": 4660,
+      "sha256": "029e0129353dc12b6ebbd44df7a4232802ab434877bd579431dcbc691ed455d3"
+    },
+    {
+      "path": "04-skills/ig-caption/SKILL.md",
+      "bytes": 4747,
+      "sha256": "e808d4dc51d770161082ee0f6815f5084c87c50fccfec6bd84c3a108dfca2909"
+    },
+    {
+      "path": "04-skills/ig-caption/caption.py",
+      "bytes": 10252,
+      "sha256": "4b9c15d6ac6d6b13eb698bff403e41371f4eef85ae1748442cc71b2014b7e13b"
+    },
+    {
+      "path": "04-skills/ig-carousel/SKILL.md",
+      "bytes": 4486,
+      "sha256": "e812d032dcdb4e1990689126fda0f7a226f882e64c83866d083fd1a7c89564b0"
+    },
+    {
+      "path": "04-skills/ig-comment/SKILL.md",
+      "bytes": 4398,
+      "sha256": "49527fe0a87fe2cd301aa9559b6c95d58b669f403b813b7afb628463dbe519c1"
+    },
+    {
+      "path": "04-skills/ig-dm/SKILL.md",
+      "bytes": 4800,
+      "sha256": "e2681bce13a1c8051d11e4826af27aa85e8bf84e0c27eaa976d5ceb7042d4bca"
+    },
+    {
+      "path": "04-skills/ig-human/SKILL.md",
+      "bytes": 5353,
+      "sha256": "8529817ab027e49a79156fb5c77af9b3a80de71b209e2f9b11e03abc1fb9d589"
+    },
+    {
+      "path": "04-skills/ig-human/detect.py",
+      "bytes": 8761,
+      "sha256": "f5f189abf4b22b1ced1384982f7551da545c7776edadfc36d9066bcfd84e27d7"
+    },
+    {
+      "path": "04-skills/ig-human/humanize.py",
+      "bytes": 11192,
+      "sha256": "1c71b2362aa2b4e9ebeaa1db7228698b7f1055e5f3f3449d7d430be01cb18a35"
+    },
+    {
+      "path": "04-skills/ig-human/slop.json",
+      "bytes": 22657,
+      "sha256": "4bd5936356e2c451df92dfcf1dd2c6f4ee3ccb57e3b0d5aac76b33b9da6a569e"
+    },
+    {
+      "path": "04-skills/ig-plan/SKILL.md",
+      "bytes": 4016,
+      "sha256": "539b036c05df26dc742a85dd6ccf532f47e29278892b568e13bd7206716ffb4d"
+    },
+    {
+      "path": "04-skills/ig-profile/SKILL.md",
+      "bytes": 3489,
+      "sha256": "fd1a187cfbada2f952cadbd52eddb7347c89a98beccba9c1046c72abdb8ef2b4"
+    },
+    {
+      "path": "04-skills/ig-profile/rubric.json",
+      "bytes": 4231,
+      "sha256": "bd61641158a549603cdda1627e696e1fb8baa6c644d6172dbeb527558c10afcf"
+    },
+    {
+      "path": "04-skills/ig-reel/SKILL.md",
+      "bytes": 4563,
+      "sha256": "77e21117e5d2cd56bfa54fe6284c20892a831281f3c4190197dad111d9d1502f"
+    },
+    {
+      "path": "04-skills/ig-reel/beats.py",
+      "bytes": 8438,
+      "sha256": "af3242f86f4cb76cd48a612d37f1a4ae507abcc1074a2c38215869fd8f6bb2aa"
+    },
+    {
+      "path": "04-skills/ig-reel/guidelines.md",
+      "bytes": 2400,
+      "sha256": "7e514716e384ebf157d8db27e63664377911c2fa75bc91f2e897e3f6d3d83004"
+    },
+    {
+      "path": "04-skills/ig-reel/hooks.json",
+      "bytes": 18199,
+      "sha256": "b400700c0b57109fd9bc0cc9cf12c85650ac47ee457f33f4f29b08c36dafd887"
+    },
+    {
+      "path": "04-skills/ig-reel/hookscore.py",
+      "bytes": 13127,
+      "sha256": "3b8909286a41dd85ea8a8fffd81ce6f21cf2fd12ee0ab24b3b1a25d5358cea8c"
+    },
+    {
+      "path": "04-skills/ig-reply/SKILL.md",
+      "bytes": 4086,
+      "sha256": "2f8d63ff070e4ffe8da540376468bd2dc7ab61d8315142024da8c20722e0cd9e"
+    },
+    {
+      "path": "04-skills/ig-repurpose/SKILL.md",
+      "bytes": 3499,
+      "sha256": "5750a3231123a48576b82babb0f04854fa26f5b2cbd54c8ce53e4e2eb0462a2b"
+    },
+    {
+      "path": "04-skills/ig-story/SKILL.md",
+      "bytes": 4466,
+      "sha256": "d5f39a3ec77278c4ad536bfa56c9a942a312949b97b09f5a4f35a62799a6906d"
+    },
+    {
+      "path": "04-skills/ig-viral/SKILL.md",
+      "bytes": 5100,
+      "sha256": "6e221d3e3ce066ca5ae6667460c7cf8c8771c5535d206df71ea9a2c6571288bd"
+    },
+    {
+      "path": "04-skills/ig-viral/capture-guide.md",
+      "bytes": 2481,
+      "sha256": "4ac3958de59b652d530e61210e6fcbb08a2e718ec6c509e8750a5dd4c8438b1a"
+    },
+    {
+      "path": "04-skills/ig-viral/hooks.json",
+      "bytes": 6880,
+      "sha256": "dd0d363692ad6a81dffeb0380593d0dcadc52d984dca1a3553d4864ce3694040"
+    },
+    {
+      "path": "04-skills/ig-viral/hookscore.py",
+      "bytes": 9886,
+      "sha256": "b138040ae89dc726294605a33e8d328e6250a47160c7988dc53b36ea64134128"
+    },
+    {
+      "path": "04-skills/ig-viral/swipe.py",
+      "bytes": 8602,
+      "sha256": "10bcb9acdb6289fece096eb3e45bf182a4d71e07d28a3798f2e59eab1035f4f7"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/.gitignore",
+      "bytes": 168,
+      "sha256": "f59a62eb868c27941148e48667b9841c081a59dbb97863b97fd54e63691a1cae"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/README.md",
+      "bytes": 7844,
+      "sha256": "eb19c39d3fa0fc13b8efcf4cc644b2a513de806c2788381b1187b944c753e5ef"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/SKILL.md",
+      "bytes": 3064,
+      "sha256": "b6e2c90b56f2aa523f1f767b52a62013cb350a727fbd3dcb1991a94d4470959f"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/aplicar_capas_destaques.py",
+      "bytes": 8244,
+      "sha256": "ff78ac22db1ae25abd7400bf2f6e185e8abdda7b028761bc233c9bb595e5adf7"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/conectar-poco-wifi.ps1",
+      "bytes": 2235,
+      "sha256": "23fd42a2c842bbf84539095bdff2e9c2e8328134cd81042586a4fb0e6053e758"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/criar_e_capa.py",
+      "bytes": 4823,
+      "sha256": "fcfe31afb1489b6e6eec8978e3d9b1c31b007064b6c154f04f4095cf398c8413"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/editar_capas_destaques.py",
+      "bytes": 5256,
+      "sha256": "70224d4d078e6377ae43640292af9b6f49240013aed282f9f2afb9e22fae8614"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/excluir_destaque.py",
+      "bytes": 4000,
+      "sha256": "35687e859b80ba7995700d66ed436b4abce270d402e5474807af6258e3e90fc0"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/highlights_preflight.py",
+      "bytes": 2154,
+      "sha256": "00d2497fd47e6ad2c8cd0d5b2d455dc33442409d13f4d3a2c48792f3f3b0a1a1"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/ig_appium.py",
+      "bytes": 16298,
+      "sha256": "03832af3700771fe2ef70b88c90ef87dc292bab89029ef4016161a3548647b91"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/mapear_destaques.py",
+      "bytes": 2916,
+      "sha256": "b6425b6641af0732f7f61a532069ea15712f071d52f8e8e92e7427683ec06b93"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/package.json",
+      "bytes": 54,
+      "sha256": "e4054d0f69916160e6c95b458e994ec7ea7c71090b0d117b9064d21a198d38dc"
+    },
+    {
+      "path": "04-skills/instagram-android-appium/requirements.txt",
+      "bytes": 42,
+      "sha256": "4e08375f3c3b31ca3febfdf27b637a72d55dfa7d6274f2fdfc8b48cc909244a2"
+    },
+    {
+      "path": "04-skills/legenda/SKILL.md",
+      "bytes": 4419,
+      "sha256": "9af8abfadb12e41d0eab94d409589c4321bd1034c61ea85a813c45ce6ad6a4bd"
+    },
+    {
+      "path": "04-skills/perfil/SKILL.md",
+      "bytes": 5246,
+      "sha256": "1f37c98d2d0fc128ea34f0c68f52e0a475c60b058e5cc9b65d0696b3db983af7"
+    },
+    {
+      "path": "04-skills/revisao-textual/SKILL.md",
+      "bytes": 1759,
+      "sha256": "3965a2d5b75a52d17126aab34e674680fd97d9a4b4ecea0817e4a88203c0a4c4"
+    },
+    {
+      "path": "04-skills/revisao-textual/taxonomia-editorial.json",
+      "bytes": 5644,
+      "sha256": "538b66034c8cd94ddac79d4f19109ea8e2b70f780d23502f5b7093eff18892ae"
+    },
+    {
+      "path": "04-skills/social-publisher/SKILL.md",
+      "bytes": 5195,
+      "sha256": "701479fc0cd0cf7c856100447bd77605c0977fe4f23b81e31d4ca5868a2904f1"
+    },
+    {
+      "path": "05-agentes/AGENTES.md",
+      "bytes": 1349,
+      "sha256": "d565adcbee69837f2549f72794d3e53c2c6c24cef291b440b19fc0652b3798f3"
+    },
+    {
+      "path": "06-referencias/CONFIGURACAO-IA-IG-20261110.md",
+      "bytes": 4355,
+      "sha256": "47a69a204ad3aec488fabf42a5dce1825d5eaed896ea18a27d22e4fa89c57728"
+    },
+    {
+      "path": "06-referencias/LINKS.md",
+      "bytes": 1023,
+      "sha256": "8e0a3646ec4a0623c7c326f405fc651c322aec256d3243382b9707e0b4054fec"
+    },
+    {
+      "path": "06-referencias/MAPA-OPERACIONAL.json",
+      "bytes": 40515,
+      "sha256": "7cd91e0f5c05db1069c73883f2a73b69231a271d61cd2a23f763cc5de7dee015"
+    },
+    {
+      "path": "06-referencias/MAPA-OPERACIONAL.md",
+      "bytes": 26745,
+      "sha256": "690fdeb66f289e399dc2c93275a6d0a17330677fe781a93b4d9bcfa08aa4dba2"
+    },
+    {
+      "path": "06-referencias/MAPA-PONTA-A-PONTA-SKILLS-INSTAGRAM-20261112.md",
+      "bytes": 7887,
+      "sha256": "fded28353318d94ea19309a5b5e1bdebe7b3fb7feeb0b4a5e35936c02a129d13"
+    },
+    {
+      "path": "06-referencias/PROTOCOLO-DE-ENTRADA-AGENTE.md",
+      "bytes": 4734,
+      "sha256": "0f894546940d3f3ad9184a734a01956a74ac67b0c666d3c80ac48d6b4805c6d1"
+    },
+    {
+      "path": "06-referencias/SKILLS-ATIVAS-OPENCODE.json",
+      "bytes": 56768,
+      "sha256": "2d4da6259dd3420fd92415663cf333acb2b2447b6f6c4cf3bf9355ee18931092"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/ASSINATURA-OFICIAL.html",
+      "bytes": 96,
+      "sha256": "95e954596821114102b6c3adf07578a31b35e786726e885254475aa767498e31"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/RELATORIO-TESTE-TRAVA-20261121.json",
+      "bytes": 197,
+      "sha256": "b847c2f8b0517f1d2a8acc2201a4efa046648cd0d79beac1f2e7444a87595342"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/geometria-seta-assinatura.css",
+      "bytes": 633,
+      "sha256": "661bd3f9fc7b93cb17c0c93622b76d882fe7b1aa45c1083baadc2a3e522d9f57"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/mapeamento.json",
+      "bytes": 4105,
+      "sha256": "1a109e81ca88326edb791ed4b4fe326a6c0bf198dcf50ba062df4dad67b72acb"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/modelo-base-claro.html",
+      "bytes": 1771,
+      "sha256": "f985d2346cd325efc2859303c43108f0a5a87d905c9693bfce09aa97b82bc8dc"
+    },
+    {
+      "path": "07-identidade-visual/padrao-oficial/modelo-para-novos-slides.html",
+      "bytes": 1758,
+      "sha256": "69b5072d92be4f41accb52eba3a443214f105a9d8f89f8962ea2edcf29038f99"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 12591,
+      "sha256": "4e54de3fcc0a1764b4aebc90259484ba880c21100d1c6c1676990b2c4602c748"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3618,
+      "sha256": "129daea3fb00a054524394b35ad95e7fb4d9f3c3e7ed42d06e0b742c01ca44fe"
+    },
+    {
+      "path": "opencode.json",
+      "bytes": 3817,
+      "sha256": "90247d20e3846f32a86ed6870b640ba7dc9e49e945c81bc436d45ebd034a92bb"
+    },
+    {
+      "path": "package.json",
+      "bytes": 508,
+      "sha256": "d7f88cd660c1c2c27ad7c6e4e8f03f817ed81341402228fee03625a0cc3988a0"
+    },
+    {
+      "path": "voice.md",
+      "bytes": 2288,
+      "sha256": "f02d4442cd4c3eed45c9983d7a0cd2f082e0a462edd31c1b2034b96ecbe3d6b1"
+    }
+  ]
+}

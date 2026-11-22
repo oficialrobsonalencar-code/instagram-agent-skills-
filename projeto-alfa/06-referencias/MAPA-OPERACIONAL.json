@@ -1,0 +1,1219 @@
+{
+  "gerado": "2026-11-22T08:34:29-03:00",
+  "raiz": "I:\\Projetos\\Instagram-RobsonAlencar",
+  "codigo": {
+    "arquivo": "graphify-out/graph.json",
+    "nos": 263,
+    "arestas": 624
+  },
+  "pastas": [
+    {
+      "caminho": "00-usuario/perfil",
+      "arquivos": 19,
+      "imagens": 16,
+      "videos": 0,
+      "html": 1,
+      "mb": 10.09
+    },
+    {
+      "caminho": "00-regras/TESTE-VALIDACAO-20261112",
+      "arquivos": 12,
+      "imagens": 8,
+      "videos": 0,
+      "html": 0,
+      "mb": 8.92
+    },
+    {
+      "caminho": "01-conteudo/carrossel-5-sinais-maturidade-crista-rascunho",
+      "arquivos": 23,
+      "imagens": 18,
+      "videos": 0,
+      "html": 1,
+      "mb": 11.01
+    },
+    {
+      "caminho": "01-conteudo/carrossel-5-sinais-maturidade-crista-seta-baixa-20261121",
+      "arquivos": 23,
+      "imagens": 18,
+      "videos": 0,
+      "html": 1,
+      "mb": 10.7
+    },
+    {
+      "caminho": "01-conteudo/carrossel-caminho-certo-20261121",
+      "arquivos": 26,
+      "imagens": 19,
+      "videos": 0,
+      "html": 1,
+      "mb": 6.08
+    },
+    {
+      "caminho": "01-conteudo/carrossel-claro-12h-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 2.1
+    },
+    {
+      "caminho": "01-conteudo/carrossel-descanso-20261118",
+      "arquivos": 17,
+      "imagens": 14,
+      "videos": 0,
+      "html": 1,
+      "mb": 6.51
+    },
+    {
+      "caminho": "01-conteudo/carrossel-escuro-16h-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 1.96
+    },
+    {
+      "caminho": "01-conteudo/carrossel-escuro-16h-post-v2",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 1.88
+    },
+    {
+      "caminho": "01-conteudo/carrossel-escuro-8h-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 1.95
+    },
+    {
+      "caminho": "01-conteudo/carrossel-nao-tem-nada-aver-claro-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 2.04
+    },
+    {
+      "caminho": "01-conteudo/carrossel-oracoes-21nov-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 2.2
+    },
+    {
+      "caminho": "01-conteudo/carrossel-religiosidade-sem-transformacao-20261121",
+      "arquivos": 47,
+      "imagens": 38,
+      "videos": 0,
+      "html": 1,
+      "mb": 10.25
+    },
+    {
+      "caminho": "01-conteudo/carrossel-seguidores-20h-post",
+      "arquivos": 11,
+      "imagens": 10,
+      "videos": 0,
+      "html": 0,
+      "mb": 2.09
+    },
+    {
+      "caminho": "01-conteudo/destaques-20261118",
+      "arquivos": 8,
+      "imagens": 7,
+      "videos": 0,
+      "html": 1,
+      "mb": 4.23
+    },
+    {
+      "caminho": "01-conteudo/oracoes-canal-20261119",
+      "arquivos": 136,
+      "imagens": 48,
+      "videos": 7,
+      "html": 0,
+      "mb": 193.68
+    },
+    {
+      "caminho": "01-conteudo/preview-slide",
+      "arquivos": 349,
+      "imagens": 185,
+      "videos": 0,
+      "html": 161,
+      "mb": 37.49
+    },
+    {
+      "caminho": "01-conteudo/rascunhos",
+      "arquivos": 395,
+      "imagens": 312,
+      "videos": 0,
+      "html": 23,
+      "mb": 41.41
+    },
+    {
+      "caminho": "01-conteudo/reels-a-revisar",
+      "arquivos": 0,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/carrossel",
+      "arquivos": 18,
+      "imagens": 5,
+      "videos": 0,
+      "html": 1,
+      "mb": 0.39
+    },
+    {
+      "caminho": "04-skills/comentarios",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "04-skills/humanizer",
+      "arquivos": 9,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.05
+    },
+    {
+      "caminho": "04-skills/ig-audit",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-caption",
+      "arquivos": 2,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "04-skills/ig-carousel",
+      "arquivos": 2,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "04-skills/ig-comment",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-dm",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-human",
+      "arquivos": 4,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.05
+    },
+    {
+      "caminho": "04-skills/ig-plan",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-profile",
+      "arquivos": 2,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "04-skills/ig-reel",
+      "arquivos": 5,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.04
+    },
+    {
+      "caminho": "04-skills/ig-reply",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-repurpose",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-story",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/ig-viral",
+      "arquivos": 7,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.04
+    },
+    {
+      "caminho": "04-skills/instagram-android-appium",
+      "arquivos": 2735,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 219.55
+    },
+    {
+      "caminho": "04-skills/instagram-marketing",
+      "arquivos": 122,
+      "imagens": 6,
+      "videos": 0,
+      "html": 0,
+      "mb": 8.47
+    },
+    {
+      "caminho": "04-skills/legenda",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "04-skills/perfil",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "04-skills/playwright-skill-repo",
+      "arquivos": 24,
+      "imagens": 0,
+      "videos": 0,
+      "html": 2,
+      "mb": 0.06
+    },
+    {
+      "caminho": "04-skills/revisao-textual",
+      "arquivos": 26,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 7.02
+    },
+    {
+      "caminho": "04-skills/social-publisher",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "06-referencias/backup-correcao-governanca-20261117-113258",
+      "arquivos": 4,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.04
+    },
+    {
+      "caminho": "06-referencias/backups-config-20261110",
+      "arquivos": 4,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.01
+    },
+    {
+      "caminho": "06-referencias/backups-config-20261112-correcoes",
+      "arquivos": 10,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.04
+    },
+    {
+      "caminho": "06-referencias/backups-config-20261121-geometria",
+      "arquivos": 70,
+      "imagens": 37,
+      "videos": 0,
+      "html": 3,
+      "mb": 8.36
+    },
+    {
+      "caminho": "06-referencias/backups-config-20261121-seta-baixa-300",
+      "arquivos": 10,
+      "imagens": 0,
+      "videos": 0,
+      "html": 2,
+      "mb": 0.03
+    },
+    {
+      "caminho": "06-referencias/designer-skills",
+      "arquivos": 205,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.79
+    },
+    {
+      "caminho": "06-referencias/pesquisa-tendencias-20261111",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.02
+    },
+    {
+      "caminho": "06-referencias/skills-ia-curadoria",
+      "arquivos": 1,
+      "imagens": 0,
+      "videos": 0,
+      "html": 0,
+      "mb": 0.0
+    },
+    {
+      "caminho": "07-identidade-visual/padrao-oficial",
+      "arquivos": 9,
+      "imagens": 2,
+      "videos": 0,
+      "html": 4,
+      "mb": 0.43
+    }
+  ],
+  "skills": [
+    {
+      "nome": "carrossel",
+      "caminho": "04-skills/carrossel/SKILL.md"
+    },
+    {
+      "nome": "comentarios",
+      "caminho": "04-skills/comentarios/SKILL.md"
+    },
+    {
+      "nome": "humanizer",
+      "caminho": "04-skills/humanizer/SKILL.md"
+    },
+    {
+      "nome": "ig-audit",
+      "caminho": "04-skills/ig-audit/SKILL.md"
+    },
+    {
+      "nome": "ig-caption",
+      "caminho": "04-skills/ig-caption/SKILL.md"
+    },
+    {
+      "nome": "ig-carousel",
+      "caminho": "04-skills/ig-carousel/SKILL.md"
+    },
+    {
+      "nome": "ig-comment",
+      "caminho": "04-skills/ig-comment/SKILL.md"
+    },
+    {
+      "nome": "ig-dm",
+      "caminho": "04-skills/ig-dm/SKILL.md"
+    },
+    {
+      "nome": "ig-human",
+      "caminho": "04-skills/ig-human/SKILL.md"
+    },
+    {
+      "nome": "ig-plan",
+      "caminho": "04-skills/ig-plan/SKILL.md"
+    },
+    {
+      "nome": "ig-profile",
+      "caminho": "04-skills/ig-profile/SKILL.md"
+    },
+    {
+      "nome": "ig-reel",
+      "caminho": "04-skills/ig-reel/SKILL.md"
+    },
+    {
+      "nome": "ig-reply",
+      "caminho": "04-skills/ig-reply/SKILL.md"
+    },
+    {
+      "nome": "ig-repurpose",
+      "caminho": "04-skills/ig-repurpose/SKILL.md"
+    },
+    {
+      "nome": "ig-story",
+      "caminho": "04-skills/ig-story/SKILL.md"
+    },
+    {
+      "nome": "ig-viral",
+      "caminho": "04-skills/ig-viral/SKILL.md"
+    },
+    {
+      "nome": "instagram-android-appium",
+      "caminho": "04-skills/instagram-android-appium/SKILL.md"
+    },
+    {
+      "nome": "instagram-marketing",
+      "caminho": "04-skills/instagram-marketing/SKILL.md"
+    },
+    {
+      "nome": "legenda",
+      "caminho": "04-skills/legenda/SKILL.md"
+    },
+    {
+      "nome": "perfil",
+      "caminho": "04-skills/perfil/SKILL.md"
+    },
+    {
+      "nome": "revisao-textual",
+      "caminho": "04-skills/revisao-textual/SKILL.md"
+    },
+    {
+      "nome": "social-publisher",
+      "caminho": "04-skills/social-publisher/SKILL.md"
+    },
+    {
+      "nome": "instagram-skills",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/SKILL.md"
+    },
+    {
+      "nome": "ig-audience-insights",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-audience-insights/SKILL.md"
+    },
+    {
+      "nome": "ig-caption-writer",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-caption-writer/SKILL.md"
+    },
+    {
+      "nome": "ig-carousel-planner",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-carousel-planner/SKILL.md"
+    },
+    {
+      "nome": "ig-content-planner",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-content-planner/SKILL.md"
+    },
+    {
+      "nome": "ig-hashtag-strategist",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-hashtag-strategist/SKILL.md"
+    },
+    {
+      "nome": "ig-hook-extractor",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-hook-extractor/SKILL.md"
+    },
+    {
+      "nome": "ig-humanizer",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-humanizer/SKILL.md"
+    },
+    {
+      "nome": "ig-profile-optimizer",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-profile-optimizer/SKILL.md"
+    },
+    {
+      "nome": "ig-repurposer",
+      "caminho": "04-skills/instagram-marketing/.codex-marketplace/instagram-skills/skills/ig-repurposer/SKILL.md"
+    },
+    {
+      "nome": "ig-audience-insights",
+      "caminho": "04-skills/instagram-marketing/skills/ig-audience-insights/SKILL.md"
+    },
+    {
+      "nome": "ig-caption-writer",
+      "caminho": "04-skills/instagram-marketing/skills/ig-caption-writer/SKILL.md"
+    },
+    {
+      "nome": "ig-carousel-planner",
+      "caminho": "04-skills/instagram-marketing/skills/ig-carousel-planner/SKILL.md"
+    },
+    {
+      "nome": "ig-content-planner",
+      "caminho": "04-skills/instagram-marketing/skills/ig-content-planner/SKILL.md"
+    },
+    {
+      "nome": "ig-hashtag-strategist",
+      "caminho": "04-skills/instagram-marketing/skills/ig-hashtag-strategist/SKILL.md"
+    },
+    {
+      "nome": "ig-hook-extractor",
+      "caminho": "04-skills/instagram-marketing/skills/ig-hook-extractor/SKILL.md"
+    },
+    {
+      "nome": "ig-humanizer",
+      "caminho": "04-skills/instagram-marketing/skills/ig-humanizer/SKILL.md"
+    },
+    {
+      "nome": "ig-profile-optimizer",
+      "caminho": "04-skills/instagram-marketing/skills/ig-profile-optimizer/SKILL.md"
+    },
+    {
+      "nome": "ig-repurposer",
+      "caminho": "04-skills/instagram-marketing/skills/ig-repurposer/SKILL.md"
+    },
+    {
+      "nome": "playwright-skill",
+      "caminho": "04-skills/playwright-skill-repo/skills/playwright-skill/SKILL.md"
+    },
+    {
+      "nome": "animated-chart",
+      "caminho": ".opencode/skills/animated-chart/SKILL.md"
+    },
+    {
+      "nome": "animation-performance",
+      "caminho": ".opencode/skills/animation-performance/SKILL.md"
+    },
+    {
+      "nome": "animation-vocabulary",
+      "caminho": ".opencode/skills/animation-vocabulary/SKILL.md"
+    },
+    {
+      "nome": "avoid-ai-design",
+      "caminho": ".opencode/skills/avoid-ai-design/SKILL.md"
+    },
+    {
+      "nome": "brand-intake",
+      "caminho": ".opencode/skills/brand-intake/SKILL.md"
+    },
+    {
+      "nome": "break-ui",
+      "caminho": ".opencode/skills/break-ui/SKILL.md"
+    },
+    {
+      "nome": "choreograph",
+      "caminho": ".opencode/skills/choreograph/SKILL.md"
+    },
+    {
+      "nome": "emil-design-eng",
+      "caminho": ".opencode/skills/emil-design-eng/SKILL.md"
+    },
+    {
+      "nome": "gitnexus-code-impact",
+      "caminho": ".opencode/skills/gitnexus-code-impact/SKILL.md"
+    },
+    {
+      "nome": "higgsfield-editor-bridge",
+      "caminho": ".opencode/skills/higgsfield-editor-bridge/SKILL.md"
+    },
+    {
+      "nome": "historical-expert",
+      "caminho": ".opencode/skills/historical-expert/SKILL.md"
+    },
+    {
+      "nome": "impeccable",
+      "caminho": ".opencode/skills/impeccable/SKILL.md"
+    },
+    {
+      "nome": "instagram-caption-editor",
+      "caminho": ".opencode/skills/instagram-caption-editor/SKILL.md"
+    },
+    {
+      "nome": "instagram-destaques",
+      "caminho": ".opencode/skills/instagram-destaques/SKILL.md"
+    },
+    {
+      "nome": "instagram-director",
+      "caminho": ".opencode/skills/instagram-director/SKILL.md"
+    },
+    {
+      "nome": "instagram-last30days",
+      "caminho": ".opencode/skills/instagram-last30days/SKILL.md"
+    },
+    {
+      "nome": "instagram-processo-verificado",
+      "caminho": ".opencode/skills/instagram-processo-verificado/SKILL.md"
+    },
+    {
+      "nome": "loop-cover",
+      "caminho": ".opencode/skills/loop-cover/SKILL.md"
+    },
+    {
+      "nome": "motion-brief-writer",
+      "caminho": ".opencode/skills/motion-brief-writer/SKILL.md"
+    },
+    {
+      "nome": "motion-effects",
+      "caminho": ".opencode/skills/motion-effects/SKILL.md"
+    },
+    {
+      "nome": "ontology-define",
+      "caminho": ".opencode/skills/ontology-define/SKILL.md"
+    },
+    {
+      "nome": "playwright-skill",
+      "caminho": ".opencode/skills/playwright-skill/SKILL.md"
+    },
+    {
+      "nome": "reel-export",
+      "caminho": ".opencode/skills/reel-export/SKILL.md"
+    },
+    {
+      "nome": "reference-to-motion",
+      "caminho": ".opencode/skills/reference-to-motion/SKILL.md"
+    },
+    {
+      "nome": "review-animations",
+      "caminho": ".opencode/skills/review-animations/SKILL.md"
+    },
+    {
+      "nome": "title-sequence-3d",
+      "caminho": ".opencode/skills/title-sequence-3d/SKILL.md"
+    },
+    {
+      "nome": "vision-qa-local",
+      "caminho": ".opencode/skills/vision-qa-local/SKILL.md"
+    },
+    {
+      "nome": "visual-reference-adapter",
+      "caminho": ".opencode/skills/visual-reference-adapter/SKILL.md"
+    },
+    {
+      "nome": "visual-regression-testing",
+      "caminho": ".opencode/skills/visual-regression-testing/SKILL.md"
+    },
+    {
+      "nome": "vox-explainer",
+      "caminho": ".opencode/skills/vox-explainer/SKILL.md"
+    },
+    {
+      "nome": "editonny-auto",
+      "caminho": ".agents/skills/editonny-auto/SKILL.md"
+    },
+    {
+      "nome": "guia-maquina-de-reels",
+      "caminho": ".agents/skills/guia-maquina-de-reels/SKILL.md"
+    },
+    {
+      "nome": "skill-checkup",
+      "caminho": ".agents/skills/skill-checkup/SKILL.md"
+    },
+    {
+      "nome": "video-editing-workflow",
+      "caminho": ".agents/skills/video-editing-workflow/SKILL.md"
+    },
+    {
+      "nome": "whats-the-difference-short",
+      "caminho": ".agents/skills/whats-the-difference-short/SKILL.md"
+    },
+    {
+      "nome": "design-critique",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-critique/SKILL.md"
+    },
+    {
+      "nome": "design-debt-audit",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-debt-audit/SKILL.md"
+    },
+    {
+      "nome": "design-impact-reporting",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-impact-reporting/SKILL.md"
+    },
+    {
+      "nome": "design-qa-checklist",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-qa-checklist/SKILL.md"
+    },
+    {
+      "nome": "design-review-process",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-review-process/SKILL.md"
+    },
+    {
+      "nome": "design-sprint-plan",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/design-sprint-plan/SKILL.md"
+    },
+    {
+      "nome": "handoff-spec",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/handoff-spec/SKILL.md"
+    },
+    {
+      "nome": "team-workflow",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/team-workflow/SKILL.md"
+    },
+    {
+      "nome": "version-control-strategy",
+      "caminho": "06-referencias/designer-skills/design-ops/skills/version-control-strategy/SKILL.md"
+    },
+    {
+      "nome": "affinity-diagram",
+      "caminho": "06-referencias/designer-skills/design-research/skills/affinity-diagram/SKILL.md"
+    },
+    {
+      "nome": "behavioural-analytics",
+      "caminho": "06-referencias/designer-skills/design-research/skills/behavioural-analytics/SKILL.md"
+    },
+    {
+      "nome": "card-sort-analysis",
+      "caminho": "06-referencias/designer-skills/design-research/skills/card-sort-analysis/SKILL.md"
+    },
+    {
+      "nome": "diary-study-plan",
+      "caminho": "06-referencias/designer-skills/design-research/skills/diary-study-plan/SKILL.md"
+    },
+    {
+      "nome": "empathy-map",
+      "caminho": "06-referencias/designer-skills/design-research/skills/empathy-map/SKILL.md"
+    },
+    {
+      "nome": "interview-script",
+      "caminho": "06-referencias/designer-skills/design-research/skills/interview-script/SKILL.md"
+    },
+    {
+      "nome": "jobs-to-be-done",
+      "caminho": "06-referencias/designer-skills/design-research/skills/jobs-to-be-done/SKILL.md"
+    },
+    {
+      "nome": "journey-map",
+      "caminho": "06-referencias/designer-skills/design-research/skills/journey-map/SKILL.md"
+    },
+    {
+      "nome": "qual-quant-triangulation",
+      "caminho": "06-referencias/designer-skills/design-research/skills/qual-quant-triangulation/SKILL.md"
+    },
+    {
+      "nome": "research-repository",
+      "caminho": "06-referencias/designer-skills/design-research/skills/research-repository/SKILL.md"
+    },
+    {
+      "nome": "summarize-interview",
+      "caminho": "06-referencias/designer-skills/design-research/skills/summarize-interview/SKILL.md"
+    },
+    {
+      "nome": "survey-design",
+      "caminho": "06-referencias/designer-skills/design-research/skills/survey-design/SKILL.md"
+    },
+    {
+      "nome": "usability-test-plan",
+      "caminho": "06-referencias/designer-skills/design-research/skills/usability-test-plan/SKILL.md"
+    },
+    {
+      "nome": "user-persona",
+      "caminho": "06-referencias/designer-skills/design-research/skills/user-persona/SKILL.md"
+    },
+    {
+      "nome": "accessibility-audit",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/accessibility-audit/SKILL.md"
+    },
+    {
+      "nome": "component-spec",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/component-spec/SKILL.md"
+    },
+    {
+      "nome": "design-system-governance",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/design-system-governance/SKILL.md"
+    },
+    {
+      "nome": "design-token",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/design-token/SKILL.md"
+    },
+    {
+      "nome": "documentation-template",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/documentation-template/SKILL.md"
+    },
+    {
+      "nome": "icon-system",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/icon-system/SKILL.md"
+    },
+    {
+      "nome": "localization-design",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/localization-design/SKILL.md"
+    },
+    {
+      "nome": "motion-system",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/motion-system/SKILL.md"
+    },
+    {
+      "nome": "naming-convention",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/naming-convention/SKILL.md"
+    },
+    {
+      "nome": "pattern-library",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/pattern-library/SKILL.md"
+    },
+    {
+      "nome": "theming-system",
+      "caminho": "06-referencias/designer-skills/design-systems/skills/theming-system/SKILL.md"
+    },
+    {
+      "nome": "case-study",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/case-study/SKILL.md"
+    },
+    {
+      "nome": "design-negotiation",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/design-negotiation/SKILL.md"
+    },
+    {
+      "nome": "design-rationale",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/design-rationale/SKILL.md"
+    },
+    {
+      "nome": "design-system-adoption",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/design-system-adoption/SKILL.md"
+    },
+    {
+      "nome": "design-token-audit",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/design-token-audit/SKILL.md"
+    },
+    {
+      "nome": "presentation-deck",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/presentation-deck/SKILL.md"
+    },
+    {
+      "nome": "ux-writing",
+      "caminho": "06-referencias/designer-skills/designer-toolkit/skills/ux-writing/SKILL.md"
+    },
+    {
+      "nome": "animation-principles",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/animation-principles/SKILL.md"
+    },
+    {
+      "nome": "conversational-ux",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/conversational-ux/SKILL.md"
+    },
+    {
+      "nome": "doherty-threshold",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/doherty-threshold/SKILL.md"
+    },
+    {
+      "nome": "error-handling-ux",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/error-handling-ux/SKILL.md"
+    },
+    {
+      "nome": "feedback-patterns",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/feedback-patterns/SKILL.md"
+    },
+    {
+      "nome": "fitts-law",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/fitts-law/SKILL.md"
+    },
+    {
+      "nome": "form-design",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/form-design/SKILL.md"
+    },
+    {
+      "nome": "gesture-patterns",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/gesture-patterns/SKILL.md"
+    },
+    {
+      "nome": "hicks-law",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/hicks-law/SKILL.md"
+    },
+    {
+      "nome": "interfaces-that-feel",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/interfaces-that-feel/SKILL.md"
+    },
+    {
+      "nome": "jakobs-law",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/jakobs-law/SKILL.md"
+    },
+    {
+      "nome": "loading-states",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/loading-states/SKILL.md"
+    },
+    {
+      "nome": "micro-interaction-spec",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/micro-interaction-spec/SKILL.md"
+    },
+    {
+      "nome": "millers-law",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/millers-law/SKILL.md"
+    },
+    {
+      "nome": "navigation-patterns",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/navigation-patterns/SKILL.md"
+    },
+    {
+      "nome": "onboarding-design",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/onboarding-design/SKILL.md"
+    },
+    {
+      "nome": "peak-end-rule",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/peak-end-rule/SKILL.md"
+    },
+    {
+      "nome": "search-ux",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/search-ux/SKILL.md"
+    },
+    {
+      "nome": "serial-position-effect",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/serial-position-effect/SKILL.md"
+    },
+    {
+      "nome": "state-machine",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/state-machine/SKILL.md"
+    },
+    {
+      "nome": "teslers-law",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/teslers-law/SKILL.md"
+    },
+    {
+      "nome": "zeigarnik-effect",
+      "caminho": "06-referencias/designer-skills/interaction-design/skills/zeigarnik-effect/SKILL.md"
+    },
+    {
+      "nome": "a-b-test-design",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/a-b-test-design/SKILL.md"
+    },
+    {
+      "nome": "accessibility-test-plan",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/accessibility-test-plan/SKILL.md"
+    },
+    {
+      "nome": "click-test-plan",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/click-test-plan/SKILL.md"
+    },
+    {
+      "nome": "concept-selection",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/concept-selection/SKILL.md"
+    },
+    {
+      "nome": "heuristic-evaluation",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/heuristic-evaluation/SKILL.md"
+    },
+    {
+      "nome": "parallel-concepts",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/parallel-concepts/SKILL.md"
+    },
+    {
+      "nome": "prototype-strategy",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/prototype-strategy/SKILL.md"
+    },
+    {
+      "nome": "test-scenario",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/test-scenario/SKILL.md"
+    },
+    {
+      "nome": "user-flow-diagram",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/user-flow-diagram/SKILL.md"
+    },
+    {
+      "nome": "wireframe-spec",
+      "caminho": "06-referencias/designer-skills/prototyping-testing/skills/wireframe-spec/SKILL.md"
+    },
+    {
+      "nome": "aesthetic-usability",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/aesthetic-usability/SKILL.md"
+    },
+    {
+      "nome": "color-system",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/color-system/SKILL.md"
+    },
+    {
+      "nome": "dark-mode-design",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/dark-mode-design/SKILL.md"
+    },
+    {
+      "nome": "data-visualization",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/data-visualization/SKILL.md"
+    },
+    {
+      "nome": "illustration-style",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/illustration-style/SKILL.md"
+    },
+    {
+      "nome": "law-of-closure",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-closure/SKILL.md"
+    },
+    {
+      "nome": "law-of-common-region",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-common-region/SKILL.md"
+    },
+    {
+      "nome": "law-of-continuity",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-continuity/SKILL.md"
+    },
+    {
+      "nome": "law-of-figure-ground",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-figure-ground/SKILL.md"
+    },
+    {
+      "nome": "law-of-proximity",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-proximity/SKILL.md"
+    },
+    {
+      "nome": "law-of-similarity",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/law-of-similarity/SKILL.md"
+    },
+    {
+      "nome": "layout-grid",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/layout-grid/SKILL.md"
+    },
+    {
+      "nome": "platform-conventions",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/platform-conventions/SKILL.md"
+    },
+    {
+      "nome": "readable-measure",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/readable-measure/SKILL.md"
+    },
+    {
+      "nome": "responsive-design",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/responsive-design/SKILL.md"
+    },
+    {
+      "nome": "spacing-system",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/spacing-system/SKILL.md"
+    },
+    {
+      "nome": "typography-scale",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/typography-scale/SKILL.md"
+    },
+    {
+      "nome": "visual-hierarchy",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/visual-hierarchy/SKILL.md"
+    },
+    {
+      "nome": "von-restorff-effect",
+      "caminho": "06-referencias/designer-skills/ui-design/skills/von-restorff-effect/SKILL.md"
+    },
+    {
+      "nome": "business-design",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/business-design/SKILL.md"
+    },
+    {
+      "nome": "competitive-analysis",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/competitive-analysis/SKILL.md"
+    },
+    {
+      "nome": "content-strategy",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/content-strategy/SKILL.md"
+    },
+    {
+      "nome": "design-brief",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/design-brief/SKILL.md"
+    },
+    {
+      "nome": "design-principles",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/design-principles/SKILL.md"
+    },
+    {
+      "nome": "experience-map",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/experience-map/SKILL.md"
+    },
+    {
+      "nome": "information-architecture",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/information-architecture/SKILL.md"
+    },
+    {
+      "nome": "metrics-definition",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/metrics-definition/SKILL.md"
+    },
+    {
+      "nome": "north-star-vision",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/north-star-vision/SKILL.md"
+    },
+    {
+      "nome": "opportunity-framework",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/opportunity-framework/SKILL.md"
+    },
+    {
+      "nome": "service-blueprint",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/service-blueprint/SKILL.md"
+    },
+    {
+      "nome": "stakeholder-alignment",
+      "caminho": "06-referencias/designer-skills/ux-strategy/skills/stakeholder-alignment/SKILL.md"
+    },
+    {
+      "nome": "critique-affordance",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-affordance/SKILL.md"
+    },
+    {
+      "nome": "critique-brand-consistency",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-brand-consistency/SKILL.md"
+    },
+    {
+      "nome": "critique-color",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-color/SKILL.md"
+    },
+    {
+      "nome": "critique-composition",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-composition/SKILL.md"
+    },
+    {
+      "nome": "critique-information-density",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-information-density/SKILL.md"
+    },
+    {
+      "nome": "critique-typography",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-typography/SKILL.md"
+    },
+    {
+      "nome": "critique-visual-hierarchy",
+      "caminho": "06-referencias/designer-skills/visual-critique/skills/critique-visual-hierarchy/SKILL.md"
+    }
+  ],
+  "referencias_visuais": [
+    "06-referencias/backups-config-20261121-geometria/COMPARATIVO-REFERENCIAS-HISTORICO.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-01.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-02.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-03.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-04.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-05.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-06.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-07.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-08.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/slide-09.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-01.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-02.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-03.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-04.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-05.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-06.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-07.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-08.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/slide-09.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-01.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-02.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-03.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-04.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-05.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-06.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-07.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-08.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T02-15-18-195Z/previews-grade-1x1/slide-09.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-01.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-02.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-03.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-04.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-05.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-06.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-07.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-08.png",
+    "06-referencias/backups-config-20261121-geometria/carrossel-religiosidade-historico/out.backup-2026-11-22T03-25-34-372Z/previews-grade-1x1/slide-09.png"
+  ],
+  "reprovados": [
+    "01-conteudo/carrossel-sensacionalismo-fé",
+    "01-conteudo/carrossel-mindgee-10nov"
+  ],
+  "marca_aprovada": true,
+  "identidade_oficial": "07-identidade-visual/padrao-oficial/mapeamento.json",
+  "fluxo_oficial": "00-regras/ORDEM-OPERACIONAL-INSTAGRAM.md"
+}

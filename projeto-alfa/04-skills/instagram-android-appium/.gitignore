@@ -1,0 +1,16 @@
+# evidence screenshots produced at runtime
+evidence/
+*.png
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local env / secrets
+.env
+env.sh
+
+# os
+.DS_Store

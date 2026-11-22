@@ -1,0 +1,33 @@
+{
+  "tests": [
+    {
+      "name": "node_syntax",
+      "exit": 0,
+      "expected": 0,
+      "pass": true,
+      "last_output": ""
+    },
+    {
+      "name": "validator_reject_missing",
+      "exit": 7,
+      "expected": 7,
+      "pass": true,
+      "last_output": "FIDELIDADE BLOQUEADA: manifesto ausente\n"
+    },
+    {
+      "name": "exporter_reject_missing",
+      "exit": 7,
+      "expected": 7,
+      "pass": true,
+      "last_output": "FIDELIDADE BLOQUEADA: manifesto de referencia ausente: I:\\Projetos\\Instagram-RobsonAlencar\\01-conteudo\\carrossel-unidade\\manifesto-fidelidade.json\n"
+    },
+    {
+      "name": "validator_reject_no_permission",
+      "exit": 7,
+      "expected": 7,
+      "pass": true,
+      "last_output": "FIDELIDADE BLOQUEADA: declaracao de autorizacao explicita ausente\n"
+    }
+  ],
+  "all_pass": true
+}

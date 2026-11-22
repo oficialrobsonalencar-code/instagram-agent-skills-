@@ -17,7 +17,7 @@ Em um PowerShell aberto pela pessoa responsavel, com ambiente Windows interativo
 python 02-scripts/auditoria_visual_operador.py inicializar
 ```
 
-O programa pede uma senha pessoal criada e digitada diretamente na maquina (minimo de 12 caracteres), confirma a senha e gera o par de chaves. Nenhuma senha precisa ser entregue ao ChatGPT ou ao GitHub. Se ja existir uma chave publica ou privada, **a inicializacao recusa sobrescreve-la**.
+O programa pede uma senha pessoal criada e digitada diretamente na maquina (minimo de 8 caracteres; recomenda-se uma senha dificil de adivinhar), confirma a senha e gera o par de chaves. Nenhuma senha precisa ser entregue ao ChatGPT ou ao GitHub. Se ja existir uma chave publica ou privada, **a inicializacao recusa sobrescreve-la**.
 
 Nao executar `inicializar` dentro de um agente ou automacao. Antes da primeira aprovacao, conferir que o arquivo publico confiavel existe e que a chave privada esta protegida e fora do projeto.
 

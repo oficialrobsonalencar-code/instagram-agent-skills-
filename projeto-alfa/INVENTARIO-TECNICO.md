@@ -2,7 +2,7 @@
 
 Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar versoes.
 
-**Arquivos:** 309 | **Bytes:** 3160074
+**Arquivos:** 309 | **Bytes:** 3160116
 
 | Arquivo | Bytes | SHA-256 |
 |---|---:|---|
@@ -178,7 +178,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | .opencode/skills/visual-reference-adapter/SKILL.md | 8013 | 212783d9e978034406e68f2651dd47f84bc6f7e265ac614be060489bfa89e1c1 |
 | .opencode/skills/visual-regression-testing/SKILL.md | 3364 | 731c9be391fbf97ae5d7ebfd488c1433c698f773c72a160743ff88e22a93414a |
 | .opencode/skills/vox-explainer/SKILL.md | 6044 | 6c17b8f9360faa4b2f9816edf939cc9c3a58c7eda4b4da6c3c4a9969e8f7c1fb |
-| 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md | 4652 | cc0d6fce320207d463795f862f791cefcebc979acbdc46223731d5ab07be8459 |
+| 00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md | 4696 | 01d99497cb554d3a872a4ea9de05fdadd59baf9656177b566e0a7e1f9785980e |
 | 00-regras/CONTROLE-DE-FONTES-E-APROVACAO.md | 2674 | eb7f9e2cee5563b6bb3bc899a09ebb20ebea72c02942a05fa8b9d06e1a1995cd |
 | 00-regras/FIDELIDADE-REFERENCIA-EXECUCAO.md | 1460 | 5c1b2c8632da3c933b3e5c46ef66ccf7021c12c2e074aa45be8f68d879151c99 |
 | 00-regras/FIDELIDADE-TESTES.json | 872 | 642f433884be5a92b2b5033f2f4dc25f6958afc8e10adc0a8e63cb98e4170ce6 |
@@ -199,7 +199,7 @@ Cada arquivo foi copiado do ALFA sem imagens. Bytes e SHA-256 permitem comparar 
 | 02-scripts/agendar_post_aprovado.py | 7362 | 71d0080f0d716a1e9c29f3c4aaeba35c6153d2932fe75969f83a2308981d1b03 |
 | 02-scripts/atualizar_grafo_instagram.ps1 | 771 | ae2a8094de045a8a3f63bb5e9cac7a95a44607596528b12d67c0c8216699662f |
 | 02-scripts/atualizar_grafo_instagram.py | 2870 | b7322825666c1750979cca97b4d53c168552304fe9b7e51a5be7e186acbf02ce |
-| 02-scripts/auditoria_visual_operador.py | 7757 | ce2561bc19b3b1e3cb19cb0a452c231d76002b81c22289e6471a85dd98b7d752 |
+| 02-scripts/auditoria_visual_operador.py | 7755 | 83593e03c1633ed460575331913f7dfe0b42e5d98ef7e90c75ee15a27d494add |
 | 02-scripts/autorizacao_por_pacote.py | 5863 | bf8813120b3d3f5cd3cc046f08fab7a063fb7130c760ce8087505799c71bf0da |
 | 02-scripts/avaliar_decisao_carrossel.py | 1421 | 0908301a91e90a196fe06b9cd61815862070c218d3c3306c619cfd0073de3e43 |
 | 02-scripts/comparar_referencia.py | 1910 | adef56b8cf2c98d75c0ddbd58b614018cf3cd72c863270ffe275c3e9cea805d2 |

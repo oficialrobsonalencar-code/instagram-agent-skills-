@@ -24,8 +24,8 @@ ACCOUNT = "pastorrobsonalencar"
 
 def create_key_pair(password: bytes, private_path=PRIVATE_KEY, public_path=PUBLIC_KEY_PATH):
     """Usado apos a senha pessoal ser fornecida; nao sobrescreve chaves existentes."""
-    if len(password) < 12:
-        raise ValueError("SENHA_LOCAL_MINIMO_12_CARACTERES")
+    if len(password) < 8:
+        raise ValueError("SENHA_LOCAL_MINIMO_8_CARACTERES")
     private_path,public_path = Path(private_path),Path(public_path)
     if private_path.exists() or public_path.exists():
         raise FileExistsError("CHAVE_JA_EXISTE: nao substituir. Verifique a identidade e o backup.")

@@ -2,7 +2,7 @@
   "data": "2026-11-22",
   "escopo": "codigo e documentacao tecnica",
   "arquivos": 309,
-  "bytes": 3160074,
+  "bytes": 3160116,
   "bloqueados_por_seguranca": [],
   "erros_sintaxe": [],
   "js_verificados": 53,
@@ -869,8 +869,8 @@
     },
     {
       "path": "00-regras/AUDITORIA-VISUAL-ASSINADA-V2.md",
-      "bytes": 4652,
-      "sha256": "cc0d6fce320207d463795f862f791cefcebc979acbdc46223731d5ab07be8459"
+      "bytes": 4696,
+      "sha256": "01d99497cb554d3a872a4ea9de05fdadd59baf9656177b566e0a7e1f9785980e"
     },
     {
       "path": "00-regras/CONTROLE-DE-FONTES-E-APROVACAO.md",
@@ -974,8 +974,8 @@
     },
     {
       "path": "02-scripts/auditoria_visual_operador.py",
-      "bytes": 7757,
-      "sha256": "ce2561bc19b3b1e3cb19cb0a452c231d76002b81c22289e6471a85dd98b7d752"
+      "bytes": 7755,
+      "sha256": "83593e03c1633ed460575331913f7dfe0b42e5d98ef7e90c75ee15a27d494add"
     },
     {
       "path": "02-scripts/autorizacao_por_pacote.py",

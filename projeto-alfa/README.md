@@ -5,3 +5,5 @@ Esta pasta contem o snapshot tecnico do ALFA de 22/11/2026. Sem imagens, video, 
 Consultar [Mapa ponta a ponta](MAPA-PONTA-A-PONTA.md), [Inventario completo](INVENTARIO-TECNICO.md), [Manifesto SHA-256](MANIFESTO-TECNICO.json), [Verificacao](VERIFICACAO-TECNICA.md).
 
 O repositorio nao executa nem autentica no Instagram. A operacao depende dos servicos locais do ALFA.
+
+**Configuracao de uma nova instalacao:** [Como instalar e fazer funcionar, sem credenciais](COMO-INSTALAR-E-FUNCIONAR.md).
